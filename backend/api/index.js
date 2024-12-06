@@ -1,10 +1,12 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-app.use(cors());
-
-const SHOPIFY_API_URL =
-  "https://b4kpwj-p7.myshopify.com/admin/api/2024-10/graphql.json";
+app.use(
+  cors({
+    origin: env.FRONTEND_URL || "*",
+    credentials: true,
+  })
+);
 
 app.use(express.json());
 

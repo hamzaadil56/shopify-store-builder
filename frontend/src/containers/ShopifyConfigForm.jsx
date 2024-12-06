@@ -37,7 +37,7 @@ const ShopifyStoreForm = () => {
     setApiResponse(null);
 
     try {
-      const response = await fetch("http://localhost:3000/api/shop", {
+      const response = await fetch(import.meta.env.VITE_BACKEND_URL, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

@@ -4,8 +4,6 @@ import { Container, Typography, Box, Stack } from "@mui/material";
 import StepWrapper from "./containers/StepWrapper";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <main>
       <Container maxWidth="xl" sx={{ py: 4 }}>
