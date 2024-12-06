@@ -1,21 +1,12 @@
 import React, { useState } from "react";
 import { LinearProgress, Box, Typography, Button, Stack } from "@mui/material";
+import { useStepper } from "../context/stepperContext";
 
 const LinearProgressWithLabel = () => {
-  const [progress, setProgress] = useState(0);
-
-  const handleIncrease = () => {
-    setProgress((prevProgress) =>
-      prevProgress >= 100 ? 0 : prevProgress + 10
-    );
-  };
-
-  const handleDecrease = () => {
-    setProgress((prevProgress) => (prevProgress <= 0 ? 0 : prevProgress - 10));
-  };
+  const { progress } = useStepper();
 
   return (
-    <Box sx={{ width: "100%", maxWidth: 400 }}>
+    <Box sx={{ width: "100%", maxWidth: 500 }}>
       <Stack spacing={2}>
         <Box sx={{ display: "flex", alignItems: "center" }}>
           <Box sx={{ width: "100%", mr: 1 }}>
@@ -25,6 +16,7 @@ const LinearProgressWithLabel = () => {
               color={
                 progress < 30 ? "error" : progress < 60 ? "warning" : "success"
               }
+              sx={{ height: 10, borderRadius: 5 }}
             />
           </Box>
           <Box sx={{ minWidth: 35 }}>

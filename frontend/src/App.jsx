@@ -1,13 +1,6 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
 import "./App.css";
-import BorderLinearProgress from "./components/BorderLinearProgress";
 import { Container, Typography, Box, Stack } from "@mui/material";
-import StepContainer from "./containers/StepsContainer";
-import StepDescriptionContainer from "./components/StepDescriptionCard";
-import StepActionCard from "./components/Step1ActionCard";
-import { useStepper } from "./context/stepperContext";
 import StepWrapper from "./containers/StepWrapper";
 
 function App() {
@@ -24,7 +17,12 @@ function App() {
             Version 1.1
           </Typography>
         </Box>
-        <Stack direction={"row"}>
+        <Stack
+          direction={{
+            sm: "column",
+            md: "row",
+          }}
+        >
           <StepWrapper />
         </Stack>
       </Container>

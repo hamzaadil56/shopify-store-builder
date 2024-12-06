@@ -46,6 +46,17 @@ export const StepperProvider = ({ children }) => {
   const [activeStep, setActiveStep] = useState(0);
   const [completedSteps, setCompletedSteps] = useState([]);
   const [createdStore, setCreatedStore] = useState(false);
+  const [progress, setProgress] = useState(0);
+
+  const handleIncrease = () => {
+    setProgress((prevProgress) =>
+      prevProgress >= 100 ? 0 : prevProgress + 20
+    );
+  };
+
+  const handleDecrease = () => {
+    setProgress((prevProgress) => (prevProgress <= 0 ? 0 : prevProgress - 20));
+  };
 
   const handleNext = () => {
     // Mark current step as completed before moving to next
@@ -56,12 +67,14 @@ export const StepperProvider = ({ children }) => {
     setActiveStep((prevActiveStep) =>
       prevActiveStep < steps.length - 1 ? prevActiveStep + 1 : prevActiveStep
     );
+    handleIncrease();
   };
 
   const handleBack = () => {
     setActiveStep((prevActiveStep) =>
       prevActiveStep > 0 ? prevActiveStep - 1 : prevActiveStep
     );
+    handleDecrease();
   };
 
   const handleReset = () => {
@@ -84,6 +97,7 @@ export const StepperProvider = ({ children }) => {
       value={{
         createdStore,
         steps,
+        progress,
         activeStep,
         completedSteps,
         handleCreatedStore,
