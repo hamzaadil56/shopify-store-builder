@@ -1,6 +1,7 @@
 import React, { createContext, useContext, useState } from "react";
 import Step1Container from "../containers/Step1Container";
 import ShopifyConfigForm from "../containers/ShopifyConfigForm";
+import SubscriptionStep from "../containers/SubscriptionStep";
 
 // Steps data
 const steps = [
@@ -17,7 +18,7 @@ const steps = [
   {
     label: "Shopify subscription",
     description: `Subscribing to a Shopify Basic plan.`,
-    component: <Step1Container />,
+    component: <SubscriptionStep />,
   },
   {
     label: "Customisation",

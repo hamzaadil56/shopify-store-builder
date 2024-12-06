@@ -6,17 +6,22 @@ import {
   Typography,
   Box,
   Stack,
+  Alert,
 } from "@mui/material";
 import StepDescriptionCard from "../components/StepDescriptionCard";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
+import { useStepper } from "../context/stepperContext";
 
 const ShopifyStoreForm = () => {
+  const { handleNext } = useStepper();
   const [formData, setFormData] = useState({
     accessToken: "",
     storeName: "",
     email: "",
   });
+  const [apiResponse, setApiResponse] = useState(null);
+  const [error, setError] = useState(null);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -26,10 +31,35 @@ const ShopifyStoreForm = () => {
     }));
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    console.log("Form submitted:", formData);
-    // Add submission logic
+    setError(null);
+    setApiResponse(null);
+
+    try {
+      const response = await fetch("http://localhost:3000/api/shop", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          token: formData?.accessToken,
+          storeUrl: `https://${formData?.storeName}/admin/api/2024-10/graphql.json`,
+        }),
+      });
+
+      const data = await response.json();
+      handleNext();
+
+      if (data.errors) {
+        throw new Error(data.errors.map((err) => err.message).join(", "));
+      }
+
+      setApiResponse(data);
+    } catch (err) {
+      setError(err.message);
+      console.error("Error submitting form:", err);
+    }
   };
 
   return (
@@ -47,6 +77,7 @@ const ShopifyStoreForm = () => {
               Follow the steps
             </Typography>
             <Box sx={{ color: "text.secondary", fontSize: 18 }}>
+              {/* Previous steps remain the same */}
               <Typography
                 sx={{ my: 4 }}
                 variant="p"
@@ -141,6 +172,30 @@ const ShopifyStoreForm = () => {
                 margin="normal"
                 required
               />
+
+              {error && (
+                <Alert severity="error" sx={{ mt: 2 }}>
+                  {error}
+                </Alert>
+              )}
+
+              {apiResponse && (
+                <Card sx={{ mt: 2 }}>
+                  <CardContent>
+                    <Typography variant="h6">Store Details</Typography>
+                    <Typography>Email: {apiResponse.email}</Typography>
+                    <Typography>Plan: {apiResponse.plan}</Typography>
+                    <Typography>
+                      Domain: {apiResponse.myshopifyDomain}
+                    </Typography>
+                    <Typography>
+                      Created At:{" "}
+                      {new Date(apiResponse.createdAt).toLocaleString()}
+                    </Typography>
+                  </CardContent>
+                </Card>
+              )}
+
               <Stack direction={"row"} justifyContent={"space-between"}>
                 <Button color="primary" variant="contained" sx={{ mt: 2 }}>
                   Back

@@ -5,16 +5,12 @@ import App from "./App.jsx";
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import { StepperProvider } from "./context/stepperContext.jsx";
+import { theme } from "./theme/index.js";
 
-const darkTheme = createTheme({
-  palette: {
-    mode: "dark",
-  },
-});
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <StepperProvider>
-      <ThemeProvider theme={darkTheme}>
+      <ThemeProvider theme={theme}>
         <App />
       </ThemeProvider>
     </StepperProvider>
