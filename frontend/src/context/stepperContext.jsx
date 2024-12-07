@@ -2,6 +2,7 @@ import React, { createContext, useContext, useState } from "react";
 import Step1Container from "../containers/Step1Container";
 import ShopifyConfigForm from "../containers/ShopifyConfigForm";
 import SubscriptionStep from "../containers/SubscriptionStep";
+import CustomizationStep from "../containers/CustomizationStep";
 
 // Steps data
 const steps = [
@@ -23,7 +24,7 @@ const steps = [
   {
     label: "Customisation",
     description: `Selecting your niche and your color scheme.`,
-    component: <Step1Container />,
+    component: <CustomizationStep />,
   },
   {
     label: "Store access",

@@ -1,12 +1,15 @@
 import React from "react";
 import StepDescriptionCard from "../components/StepDescriptionCard";
-import { Box, Stack, Typography, Button } from "@mui/material";
-import Card from "@mui/material/Card";
-import CardContent from "@mui/material/CardContent";
-import { useStepper } from "../context/stepperContext";
+import {
+  CardContent,
+  Typography,
+  Box,
+  Stack,
+  Button,
+  Card,
+} from "@mui/material";
 
-const SubscriptionStep = () => {
-  const { handleNext } = useStepper();
+const CustomizationStep = () => {
   return (
     <div>
       <StepDescriptionCard
@@ -42,43 +45,18 @@ const SubscriptionStep = () => {
                 2. Press Subscribe.
               </Typography>
             </Box>
-            <Box>
-              <Typography
-                sx={{ my: 4 }}
-                variant="p"
-                component={"span"}
-                gutterBottom
-              >
-                Your current Shopify plan:
-              </Typography>
-              <Typography
-                sx={{ my: 4 }}
-                variant="p"
-                component={"span"}
-                gutterBottom
-              >
-                Shopify Trial
-              </Typography>
-              <Typography
-                sx={{ my: 4 }}
-                variant="p"
-                component={"p"}
-                gutterBottom
-              >
-                When successfully subscribed to a Shopify plan, press Submit.
-              </Typography>
-            </Box>
+
             <Stack direction={"row"} justifyContent={"space-between"}>
               <Button color="primary" variant="contained" sx={{ mt: 2 }}>
                 Back
               </Button>
               <Button
-                onClick={handleNext}
+                type="submit"
                 variant="contained"
                 color="primary"
                 sx={{ mt: 2 }}
               >
-                Submit
+                Next
               </Button>
             </Stack>
           </CardContent>
@@ -88,4 +66,4 @@ const SubscriptionStep = () => {
   );
 };
 
-export default SubscriptionStep;
+export default CustomizationStep;
