@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "niche": "Beauty",
+    "title": "Portable hair curler",
+    "body": "",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/ad61ae886374f92d60f33a65979853e8.jpg?v=1694272128"
+    ]
+  },
+  {
+    "id": 2,
+    "niche": "Beauty",
+    "title": "Multi-purpose eyebrow trimmer",
+    "body": "",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/12eeb80a-5e97-4c19-8d80-5aaa41216d87_800x800_f7e4b7fd-f771-451f-991a-6c24da523c27.jpg?v=1694272125"
+    ]
+  },
+  {
+    "id": 3,
+    "niche": "Beauty",
+    "title": "Portable hair curler",
+    "body": "",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/12eeb80a-5e97-4c19-8d80-5aaa41216d87_800x800_f7e4b7fd-f771-451f-991a-6c24da523c27.jpg?v=1694272125"
+    ]
+  }
+]
