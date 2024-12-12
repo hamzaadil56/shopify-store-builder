@@ -52,7 +52,7 @@ const getShopInfo = async (req, res) => {
 };
 
 const createTheme = async (req, res) => {
-  const { shop, accessToken, niche, colorScheme } = req.body;
+  const { storeUrl, accessToken, niche, colorScheme } = req.body;
   try {
     const query = `
       mutation themeCreate($source: URL!, $name: String!) {
@@ -71,12 +71,13 @@ const createTheme = async (req, res) => {
 
     // You might want to dynamically generate the theme source URL based on niche/color scheme
     const variables = {
-      source: "https://example.com/theme-source-url", // Replace with actual theme source
+      source:
+        "https://github.com/hamzaadil56/zipfile/raw/refs/heads/main/store%20generator%20black%20(1).zip", // Replace with actual theme source
       name: `${niche}-${colorScheme}-Theme`,
     };
 
     const response = await shopifyGraphQLRequest(
-      shop,
+      storeUrl,
       accessToken,
       query,
       variables

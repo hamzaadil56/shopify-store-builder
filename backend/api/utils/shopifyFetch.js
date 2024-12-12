@@ -6,7 +6,7 @@ async function shopifyGraphQLRequest(shop, accessToken, query, variables = {}) {
         "Content-Type": "application/json",
         "X-Shopify-Access-Token": accessToken,
       },
-      body: JSON.stringify({ query }),
+      body: JSON.stringify({ query,variables }),
     });
 
     if (!response?.ok) {
