@@ -1,6 +1,9 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
+const shopRoutes = require("./routes/shopRoutes");
+
+// Middleware
 app.use(
   cors({
     origin: process.env.FRONTEND_URL || "*",
@@ -10,39 +13,15 @@ app.use(
 
 app.use(express.json());
 
-app.post("/api/shop", async (req, res) => {
-  const response = await fetch(req.body.storeUrl, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "X-Shopify-Access-Token": req.body.token,
-    },
-    body: JSON.stringify({
-      query: `
-          query {
-            shop {
-              name
-              email
-              plan {
-                displayName
-              }
-              myshopifyDomain
-              createdAt
-              updatedAt
-            }
-          }
-        `,
-    }),
-  });
+// Routes
+app.use("/api", shopRoutes);
 
-  const queryResponse = await response.json();
-  const data = queryResponse.data.shop;
-  return res.json({
-    email: data.email,
-    plan: data.plan.displayName,
-    myshopifyDomain: data.myshopifyDomain,
-    createdAt: data.createdAt,
-    updatedAt: data.updatedAt,
+// Global error handler
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(500).json({
+    error: "Something went wrong!",
+    details: process.env.NODE_ENV === "production" ? {} : err.message,
   });
 });
 
