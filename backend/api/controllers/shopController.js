@@ -141,26 +141,82 @@ const publishTheme = async (req, res) => {
   }
 };
 
-const addProducts = async (req, res) => {
-  const { storeUrl, accessToken, products } = req.body;
+const getCollection = async (req, res) => {
+  const { storeUrl, accessToken } = req.body;
   try {
     const query = `
-      mutation productCreate($input: ProductInput!) {
-        productCreate(input: $input) {
-          product {
-            id
-            title
-          }
-          userErrors {
-            field
-            message
+      query {
+  collections(first: 1) {
+    edges {
+      node {
+        id
+        title
+        handle
+        updatedAt
+        sortOrder
+      }
+    }
+  }
+}
+    `;
+
+    const response = await shopifyGraphQLRequest(storeUrl, accessToken, query);
+
+    res.status(200).json({
+      message: "Collection created successfully",
+      collectionId: response.data.collections.edges[0].node.id,
+    });
+  } catch (error) {
+    console.error("Error creating collection:", error);
+    res.status(500).json({
+      error: "Failed to create collection",
+      details: error.message,
+    });
+  }
+};
+
+const createProduct = async (req, res) => {
+  const { storeUrl, accessToken, collectionId } = req.body;
+  try {
+    const query = `
+      mutation CreateProductWithNewMedia($input: ProductInput!, $media: [CreateMediaInput!]) {
+  productCreate(input: $input, media: $media) {
+    product {
+      id
+      title
+      media(first: 10) {
+        nodes {
+          alt
+          mediaContentType
+          preview {
+            status
           }
         }
       }
+    }
+    userErrors {
+      field
+      message
+    }
+  }
+}
     `;
 
     const variables = {
-      input: products,
+      input: {
+        title: "Multi-purpose eyebrow trimmer",
+      },
+      media: [
+        {
+          originalSource:
+            "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/12eeb80a-5e97-4c19-8d80-5aaa41216d87_800x800_f7e4b7fd-f771-451f-991a-6c24da523c27.jpg",
+          alt: "Eye brow trimmer",
+          mediaContentType: "IMAGE",
+        },
+      ],
+      product: {
+        collectionsToJoin: [collectionId],
+      },
     };
 
     const response = await shopifyGraphQLRequest(
@@ -172,7 +228,7 @@ const addProducts = async (req, res) => {
 
     res.status(200).json({
       message: "Products added successfully",
-      products: response.data.productCreate.products,
+      productId: response.data.productCreate.product.id,
     });
   } catch (error) {
     console.error("Error adding products:", error);
@@ -183,8 +239,87 @@ const addProducts = async (req, res) => {
   }
 };
 
+const getPublicationOfOnlineStore = async (req, res) => {
+  const { storeUrl, accessToken } = req.body;
+  try {
+    const query = `
+      query {
+  publications(first: 1) {
+    edges {
+      node {
+        id
+        name
+      }
+    }
+  }
+}
+
+    `;
+
+    const response = await shopifyGraphQLRequest(storeUrl, accessToken, query);
+
+    res.status(200).json({
+      message: "Collection created successfully",
+      publicationId: response.data.publications.edges[0].node.id,
+    });
+  } catch (error) {
+    console.error("Error creating collection:", error);
+    res.status(500).json({
+      error: "Failed to create collection",
+      details: error.message,
+    });
+  }
+};
+
+const publishProduct = async (req, res) => {
+  const { storeUrl, accessToken, productId, publicationId } = req.body;
+  try {
+    const query = `
+      mutation publishablePublish($id: ID!, $input: [PublicationInput!]!) {
+  publishablePublish(id: $id, input: $input) {
+    
+    shop {
+      publicationCount
+    }
+    userErrors {
+      field
+      message
+    }
+  }
+}
+    `;
+
+    const variables = {
+      id: productId,
+      input: {
+        publicationId: publicationId,
+      },
+    };
+    const response = await shopifyGraphQLRequest(
+      storeUrl,
+      accessToken,
+      query,
+      variables
+    );
+
+    res.status(200).json({
+      message: "Product published successfully",
+    });
+  } catch (error) {
+    console.error("Error publishing product:", error);
+    res.status(500).json({
+      error: "Failed to publish product",
+      details: error.message,
+    });
+  }
+};
+
 module.exports = {
   getShopInfo,
   createTheme,
   publishTheme,
+  getCollection,
+  createProduct,
+  getPublicationOfOnlineStore,
+  publishProduct,
 };
