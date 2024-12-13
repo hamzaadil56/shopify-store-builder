@@ -60,6 +60,7 @@ const createTheme = async (req, res) => {
           theme {
             name
             role
+            id
           }
           userErrors {
             field
@@ -96,7 +97,94 @@ const createTheme = async (req, res) => {
   }
 };
 
+const publishTheme = async (req, res) => {
+  const { storeUrl, accessToken, themeId } = req.body;
+  try {
+    const query = `
+      mutation themePublish($id: ID!) {
+      themePublish(id: $id) {
+    theme {
+      id
+    }
+    userErrors {
+      code
+      field
+      message
+    }
+  }
+}
+    `;
+
+    const variables = {
+      id: themeId,
+    };
+
+    const response = await shopifyGraphQLRequest(
+      storeUrl,
+      accessToken,
+      query,
+      variables
+    );
+
+    res.status(200).json({
+      message: "Theme published successfully",
+      theme: response.data.themePublish.theme,
+      success: true,
+    });
+  } catch (error) {
+    console.error("Error publishing theme:", error);
+    res.status(500).json({
+      error: "Failed to publish theme",
+      details: error.message,
+      success: false,
+    });
+  }
+};
+
+const addProducts = async (req, res) => {
+  const { storeUrl, accessToken, products } = req.body;
+  try {
+    const query = `
+      mutation productCreate($input: ProductInput!) {
+        productCreate(input: $input) {
+          product {
+            id
+            title
+          }
+          userErrors {
+            field
+            message
+          }
+        }
+      }
+    `;
+
+    const variables = {
+      input: products,
+    };
+
+    const response = await shopifyGraphQLRequest(
+      storeUrl,
+      accessToken,
+      query,
+      variables
+    );
+
+    res.status(200).json({
+      message: "Products added successfully",
+      products: response.data.productCreate.products,
+    });
+  } catch (error) {
+    console.error("Error adding products:", error);
+    res.status(500).json({
+      error: "Failed to add products",
+      details: error.message,
+    });
+  }
+};
+
 module.exports = {
   getShopInfo,
   createTheme,
+  publishTheme,
 };

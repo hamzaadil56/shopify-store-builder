@@ -15,6 +15,13 @@ import FormControlLabel from "@mui/material/FormControlLabel";
 import FormControl from "@mui/material/FormControl";
 import FormLabel from "@mui/material/FormLabel";
 
+const colors = ["black", "green", "red"];
+const niches = [
+  { label: "Fitness And Gym", value: "fitnessAndGym" },
+  { label: "Beauty", value: "beauty" },
+  { label: "Kitchen", value: "kitchen" },
+];
+
 const CustomizationStep = () => {
   return (
     <div>
@@ -48,71 +55,23 @@ const CustomizationStep = () => {
                     aria-labelledby="demo-row-radio-buttons-group-label"
                     name="row-radio-buttons-group"
                   >
-                    <FormControlLabel
-                      value="female"
-                      control={
-                        <Radio sx={{ padding: "0", marginRight: "10px" }} />
-                      }
-                      label="Fitness and Gym"
-                      sx={{
-                        border: "1px solid rgba(255, 255, 255, 0.12)",
-                        padding: "10px 15px",
-                        borderRadius: "8px",
-                        my: 1,
-                      }}
-                    />
-                    <FormControlLabel
-                      value="male"
-                      control={
-                        <Radio sx={{ padding: "0", marginRight: "10px" }} />
-                      }
-                      label="Toys and Babies"
-                      sx={{
-                        border: "1px solid rgba(255, 255, 255, 0.12)",
-                        padding: "10px 15px",
-                        borderRadius: "8px",
-                        my: 1,
-                      }}
-                    />
-                    <FormControlLabel
-                      value="other"
-                      control={
-                        <Radio sx={{ padding: "0", marginRight: "10px" }} />
-                      }
-                      label="Pet Supplies"
-                      sx={{
-                        border: "1px solid rgba(255, 255, 255, 0.12)",
-                        padding: "10px 15px",
-                        borderRadius: "8px",
-                        my: 1,
-                      }}
-                    />
-                    <FormControlLabel
-                      value="other"
-                      control={
-                        <Radio sx={{ padding: "0", marginRight: "10px" }} />
-                      }
-                      label="Beauty"
-                      sx={{
-                        border: "1px solid rgba(255, 255, 255, 0.12)",
-                        padding: "10px 15px",
-                        borderRadius: "8px",
-                        my: 1,
-                      }}
-                    />
-                    <FormControlLabel
-                      value="other"
-                      control={
-                        <Radio sx={{ padding: "0", marginRight: "10px" }} />
-                      }
-                      label="Pick a niche for me"
-                      sx={{
-                        border: "1px solid rgba(255, 255, 255, 0.12)",
-                        padding: "10px 15px",
-                        borderRadius: "8px",
-                        my: 1,
-                      }}
-                    />
+                    {niches?.map((niche) => (
+                      <FormControlLabel
+                        key={niche?.value}
+                        value={niche?.value}
+                        control={
+                          <Radio sx={{ padding: "0", marginRight: "10px" }} />
+                        }
+                        label={niche?.label}
+                        sx={{
+                          border: "1px solid rgba(255, 255, 255, 0.12)",
+                          padding: "10px 15px",
+                          borderRadius: "8px",
+                          my: 1,
+                          textTransform: "capitalize",
+                        }}
+                      />
+                    ))}
                   </RadioGroup>
                 </FormControl>
               </CardContent>
@@ -134,71 +93,23 @@ const CustomizationStep = () => {
                     aria-labelledby="demo-row-radio-buttons-group-label"
                     name="row-radio-buttons-group"
                   >
-                    <FormControlLabel
-                      value="female"
-                      control={
-                        <Radio sx={{ padding: "0", marginRight: "10px" }} />
-                      }
-                      label="Blue"
-                      sx={{
-                        border: "1px solid rgba(255, 255, 255, 0.12)",
-                        padding: "10px 15px",
-                        borderRadius: "8px",
-                        my: 1,
-                      }}
-                    />
-                    <FormControlLabel
-                      value="male"
-                      control={
-                        <Radio sx={{ padding: "0", marginRight: "10px" }} />
-                      }
-                      label="Green"
-                      sx={{
-                        border: "1px solid rgba(255, 255, 255, 0.12)",
-                        padding: "10px 15px",
-                        borderRadius: "8px",
-                        my: 1,
-                      }}
-                    />
-                    <FormControlLabel
-                      value="other"
-                      control={
-                        <Radio sx={{ padding: "0", marginRight: "10px" }} />
-                      }
-                      label="Yellow"
-                      sx={{
-                        border: "1px solid rgba(255, 255, 255, 0.12)",
-                        padding: "10px 15px",
-                        borderRadius: "8px",
-                        my: 1,
-                      }}
-                    />
-                    <FormControlLabel
-                      value="other"
-                      control={
-                        <Radio sx={{ padding: "0", marginRight: "10px" }} />
-                      }
-                      label="Purple"
-                      sx={{
-                        border: "1px solid rgba(255, 255, 255, 0.12)",
-                        padding: "10px 15px",
-                        borderRadius: "8px",
-                        my: 1,
-                      }}
-                    />
-                    <FormControlLabel
-                      value="other"
-                      control={
-                        <Radio sx={{ padding: "0", marginRight: "10px" }} />
-                      }
-                      label="Grey"
-                      sx={{
-                        border: "1px solid rgba(255, 255, 255, 0.12)",
-                        padding: "10px 15px",
-                        borderRadius: "8px",
-                        my: 1,
-                      }}
-                    />
+                    {colors?.map((color) => (
+                      <FormControlLabel
+                        key={color}
+                        value={color}
+                        control={
+                          <Radio sx={{ padding: "0", marginRight: "10px" }} />
+                        }
+                        label={color}
+                        sx={{
+                          border: "1px solid rgba(255, 255, 255, 0.12)",
+                          padding: "10px 15px",
+                          borderRadius: "8px",
+                          my: 1,
+                          textTransform: "capitalize",
+                        }}
+                      />
+                    ))}
                   </RadioGroup>
                 </FormControl>
               </CardContent>
@@ -210,7 +121,11 @@ const CustomizationStep = () => {
               <Button variant="contained" sx={{ maxWidth: 400 }}>
                 Build my store
               </Button>
-              <Typography color="text.secondary" component={"p"} textAlign={'center'}>
+              <Typography
+                color="text.secondary"
+                component={"p"}
+                textAlign={"center"}
+              >
                 Please note that the customer reviews displayed on your store
                 are generated by artificial intelligence and do not represent
                 authentic feedback from real customers. These AI-generated

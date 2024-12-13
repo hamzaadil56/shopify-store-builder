@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "niche": "Beauty",
+    "niche": "beauty",
     "title": "Portable hair curler",
     "body": "",
     "images": [
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "niche": "Beauty",
+    "niche": "beauty",
     "title": "Multi-purpose eyebrow trimmer",
     "body": "",
     "images": [
@@ -19,11 +19,56 @@
   },
   {
     "id": 3,
-    "niche": "Beauty",
+    "niche": "beauty",
     "title": "Portable hair curler",
     "body": "",
     "images": [
       "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/12eeb80a-5e97-4c19-8d80-5aaa41216d87_800x800_f7e4b7fd-f771-451f-991a-6c24da523c27.jpg?v=1694272125"
+    ]
+  },
+  {
+    "id": 4,
+    "niche": "fitnessAndGym",
+    "title": "Blender Bottle",
+    "body": "",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/dnyyap1682506478227.jpg?v=1694271235"
+    ]
+  },
+  {
+    "id": 5,
+    "niche": "fitnessAndGym",
+    "title": "Electronic Cupping Therapy",
+    "body": "",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/pixelcut-export-1659930296993_720x_cace2cc0-11a7-407d-8d6d-ba8b8b109f74.webp?v=1683137365"
+    ]
+  },
+  {
+    "id": 6,
+    "niche": "fitnessAndGym",
+    "title": "Neck and shoulder massager",
+    "body": "",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/Massagerheating.webp?v=1683137370"
+    ]
+  },
+  {
+    "id": 7,
+    "niche": "kitchen",
+    "title": "Heated portable pot",
+    "body": "",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/61ceiUh8RgS._AC_SL1000.jpg?v=1682869829"
+    ]
+  },
+  {
+    "id": 8,
+    "niche": "kitchen",
+    "title": "Bottle mixer",
+    "body": "",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/dnyyap1682506478227.jpg?v=1694271235"
     ]
   }
 ]
