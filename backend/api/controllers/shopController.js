@@ -71,11 +71,21 @@ const createTheme = async (req, res) => {
     `;
 
     // You might want to dynamically generate the theme source URL based on niche/color scheme
-    const variables = {
-      source:
-        "https://github.com/hamzaadil56/zipfile/raw/refs/heads/main/store%20generator%20black%20(1).zip", // Replace with actual theme source
+    let variables = {
+      source: "", // Replace with actual theme source
       name: `${niche}-${colorScheme}-Theme`,
     };
+
+    if (colorScheme === "red") {
+      variables.source =
+        "https://download1527.mediafire.com/b88zzuo4b3zgM1VASpN1ZNRCVYUAli6w9GvKv1Ob44g5JyuVNl1KQN8dlbm5TSP8xH1S1_tg511JQO7kVFvA2SFyDMJJv3fellGguCTcHdS0n5jXgr31Wb0neI2Sg5UzIZXaHEHH1RtdW8RO-fwqO_iau0TcdWMQrXunwjjfBzscHu4/48gjo631l8okig2/store+generator+red.zip";
+    } else if (colorScheme === "green") {
+      variables.source =
+        "https://download1583.mediafire.com/ffdw7vjp1h6gHlwLJ-EzS5Ha2RbYqSCcCnaB0v-nG2TotNqsfPyowTrMB7yVIuig9VUioA37tkrExgqRUTp3O3oTeEnmtgked3pGvEAg0Lmvu6DWDfDY_o8-Il-d9uqZL7bYOCqyFGh7EHQkIkgces_KuFZP1unlgoRG3WiGcvxwTY0/wk8eh0fj92sqjf6/store+generator+green.zip";
+    } else {
+      variables.source =
+        "https://download1073.mediafire.com/na24l7sk0wcgc6ePesQQ6cssGSSWLkE3XbyzXTu7nb0y9jAKGcZjlVS0MsLmXumt7tHMjGlOanj2B_se2jz286luq7ZHfMAJ7pQ-nZn1HvqLFJ55dK0G5PYpn1_guFsbijKHbrtyO_iixXzTr-qOe1VV4LKUz3_QiAVc7FQorAwNer4/9h495k3xi71diai/store+generator+black+%281%29.zip";
+    }
 
     const response = await shopifyGraphQLRequest(
       storeUrl,
