@@ -1,4 +1,22 @@
 const { shopifyGraphQLRequest } = require("../utils/shopifyFetch");
+const fs = require("fs");
+const path = require("path");
+
+const readJsonFile = (filePath) => {
+  return new Promise((resolve, reject) => {
+    fs.readFile(filePath, "utf-8", (err, data) => {
+      if (err) {
+        return reject(`Error reading file: ${err}`);
+      }
+      try {
+        const jsonData = JSON.parse(data);
+        resolve(jsonData); // Resolve with the parsed JSON data
+      } catch (parseErr) {
+        reject(`Error parsing JSON: ${parseErr}`);
+      }
+    });
+  });
+};
 
 const getShopInfo = async (req, res) => {
   try {
@@ -186,7 +204,14 @@ const getCollection = async (req, res) => {
 };
 
 const createProduct = async (req, res) => {
-  const { storeUrl, accessToken, collectionId } = req.body;
+  const { storeUrl, accessToken, collectionId, niche } = req.body;
+  if (!collectionId || !niche) {
+    res.status(500).json({
+      error: "Missing collectionId or niche in the request body",
+    });
+  }
+
+  const filePath = path.join(__dirname, "../niches.json");
   try {
     const query = `
       mutation CreateProductWithNewMedia($input: ProductInput!, $media: [CreateMediaInput!]) {
@@ -212,39 +237,72 @@ const createProduct = async (req, res) => {
 }
     `;
 
-    const variables = {
-      input: {
-        title: "Multi-purpose eyebrow trimmer",
-      },
-      media: [
-        {
-          originalSource:
-            "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/12eeb80a-5e97-4c19-8d80-5aaa41216d87_800x800_f7e4b7fd-f771-451f-991a-6c24da523c27.jpg",
-          alt: "Eye brow trimmer",
-          mediaContentType: "IMAGE",
-        },
-      ],
-      product: {
-        collectionsToJoin: [collectionId],
-      },
-    };
+    const niches = await readJsonFile(filePath);
+    const selectedNicheData = niches?.filter((item) => item?.niche === niche);
+    let promises = [];
 
-    const response = await shopifyGraphQLRequest(
-      storeUrl,
-      accessToken,
-      query,
-      variables
-    );
+    // Create promises for all items in selectedNicheData
+    if (selectedNicheData && selectedNicheData.length > 0) {
+      promises = selectedNicheData.map((item) => {
+        const variables = {
+          input: {
+            title: item?.title,
+            descriptionHtml: item?.description,
+            collectionsToJoin: [collectionId],
+            handle: item?.handle,
+          },
+          media: item?.images?.map((image) => ({
+            originalSource: image,
+            alt: item?.title,
+            mediaContentType: "IMAGE",
+          })),
+        };
+
+        // Return the promise for shopifyGraphQLRequest
+        return shopifyGraphQLRequest(storeUrl, accessToken, query, variables);
+      });
+    }
+
+    const results = await Promise.all(promises);
+    console.log(results[0], "results");
+    // const variables = {
+    //   input: {
+    //     title: "Multi-purpose eyebrow trimmer",
+    //   },
+    //   media: [
+    //     {
+    //       originalSource:
+    //         "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/12eeb80a-5e97-4c19-8d80-5aaa41216d87_800x800_f7e4b7fd-f771-451f-991a-6c24da523c27.jpg",
+    //       alt: "Eye brow trimmer",
+    //       mediaContentType: "IMAGE",
+    //     },
+    //   ],
+    //   product: {
+    //     collectionsToJoin: [collectionId],
+    //   },
+    // };
+
+    // const response = await shopifyGraphQLRequest(
+    //   storeUrl,
+    //   accessToken,
+    //   query,
+    //   variables
+    // );
+
+    const productIds = results.map((response) => {
+      const product = response.data?.productCreate?.product;
+      return product?.id;
+    });
 
     res.status(200).json({
       message: "Products added successfully",
-      productId: response.data.productCreate.product.id,
+      results,
     });
   } catch (error) {
     console.error("Error adding products:", error);
     res.status(500).json({
       error: "Failed to add products",
-      details: error.message,
+      details: error?.message,
     });
   }
 };

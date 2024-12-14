@@ -17,13 +17,13 @@ app.use(express.json());
 app.use("/api", shopRoutes);
 
 // Global error handler
-app.use((err, req, res, next) => {
-  console.error(err.stack);
-  res.status(500).json({
-    error: "Something went wrong!",
-    details: process.env.NODE_ENV === "production" ? {} : err.message,
-  });
-});
+// app.use((err, req, res, next) => {
+//   console.error(err.stack);
+//   res.status(500).json({
+//     error: "Something went wrong!",
+//     details: process.env.NODE_ENV === "production" ? {} : err.message,
+//   });
+// });
 
 app.listen(3000, () =>
   console.log("Server running on port http://localhost:3000")

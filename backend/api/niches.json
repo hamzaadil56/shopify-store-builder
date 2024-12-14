@@ -3,34 +3,36 @@
     "id": 1,
     "niche": "beauty",
     "title": "Portable hair curler",
-    "body": "",
+    "descriptionHtml": "<div class=\"page\" title=\"Page 1\">\n    <div class=\"section\">\n        <div class=\"layoutArea\">\n            <div class=\"column\" style=\"text-align: center;\">\n                <h3>¿Quieres hacer tus rizos más prominentes?</h3>\n                \n                <p>Nuestro <strong>[Nombre de la Marca]™ Rizador de Cabello Portátil</strong> te ayudará a obtener los <strong>rizos con los que siempre has soñado</strong> en poco tiempo.</p>\n                \n                <p>¡Aprovecha nuestra <strong>función fácil de usar!</strong> Simplemente coloca un <strong>mechón de tu cabello en el rizador</strong> y deja que haga el resto.</p>\n                \n                <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/source_1_480x480.gif?v=1694272314\" alt=\"Rizador de Cabello en Acción\" class=\"product-gif\">\n                \n                <h4>Nuestras características principales:</h4>\n                \n                <ul>\n                    <li><strong>Fácil de llevar:</strong> No solo son <strong>pequeños</strong>, sino que también son <strong>ligeros</strong>.</li>\n                    <li><strong>Fácil de usar:</strong> Simplemente coloca tu cabello en el dispositivo y asegúrate de que esté encendido.</li>\n                    <li><strong>La mejor calidad:</strong> Hemos implementado tecnología para asegurarnos de que <strong>NO dañes ni quemes tu cabello</strong>.</li>\n                </ul>\n                \n                <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/source_480x480.gif?v=1694272310\" alt=\"Tecnología de Rizado\" class=\"product-gif\">\n            </div>\n        </div>\n    </div>\n</div>",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/ad61ae886374f92d60f33a65979853e8.jpg?v=1694272128"
-    ]
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/ad61ae886374f92d60f33a65979853e8.jpg"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "portable-hair-curler"
   },
   {
     "id": 2,
     "niche": "beauty",
     "title": "Multi-purpose eyebrow trimmer",
-    "body": "",
+    "descriptionHtml": "",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/12eeb80a-5e97-4c19-8d80-5aaa41216d87_800x800_f7e4b7fd-f771-451f-991a-6c24da523c27.jpg?v=1694272125"
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/12eeb80a-5e97-4c19-8d80-5aaa41216d87_800x800_f7e4b7fd-f771-451f-991a-6c24da523c27.jpg"
     ]
   },
   {
     "id": 3,
     "niche": "beauty",
-    "title": "Portable hair curler",
-    "body": "",
+    "title": "Portable hair curler 2",
+    "descriptionHtml": "",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/12eeb80a-5e97-4c19-8d80-5aaa41216d87_800x800_f7e4b7fd-f771-451f-991a-6c24da523c27.jpg?v=1694272125"
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/12eeb80a-5e97-4c19-8d80-5aaa41216d87_800x800_f7e4b7fd-f771-451f-991a-6c24da523c27.jpg"
     ]
   },
   {
     "id": 4,
     "niche": "fitnessAndGym",
     "title": "Blender Bottle",
-    "body": "",
+    "descriptionHtml": "",
     "images": [
       "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/dnyyap1682506478227.jpg?v=1694271235"
     ]
@@ -39,7 +41,7 @@
     "id": 5,
     "niche": "fitnessAndGym",
     "title": "Electronic Cupping Therapy",
-    "body": "",
+    "descriptionHtml": "",
     "images": [
       "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/pixelcut-export-1659930296993_720x_cace2cc0-11a7-407d-8d6d-ba8b8b109f74.webp?v=1683137365"
     ]
@@ -48,7 +50,7 @@
     "id": 6,
     "niche": "fitnessAndGym",
     "title": "Neck and shoulder massager",
-    "body": "",
+    "descriptionHtml": "",
     "images": [
       "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/Massagerheating.webp?v=1683137370"
     ]
@@ -57,7 +59,7 @@
     "id": 7,
     "niche": "kitchen",
     "title": "Heated portable pot",
-    "body": "",
+    "descriptionHtml": "",
     "images": [
       "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/61ceiUh8RgS._AC_SL1000.jpg?v=1682869829"
     ]
@@ -66,7 +68,7 @@
     "id": 8,
     "niche": "kitchen",
     "title": "Bottle mixer",
-    "body": "",
+    "descriptionHtml": "",
     "images": [
       "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/dnyyap1682506478227.jpg?v=1694271235"
     ]
