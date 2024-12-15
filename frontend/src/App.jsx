@@ -2,6 +2,8 @@ import { useState } from "react";
 import "./App.css";
 import { Container, Typography, Box, Stack } from "@mui/material";
 import StepWrapper from "./containers/StepWrapper";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 function App() {
   return (
@@ -24,6 +26,7 @@ function App() {
           <StepWrapper />
         </Stack>
       </Container>
+      <ToastContainer />
     </main>
   );
 }

@@ -12,6 +12,7 @@ import StepDescriptionCard from "../components/StepDescriptionCard";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import { useStepper } from "../context/stepperContext";
+import { LoadingButton } from "@mui/lab";
 
 const ShopifyStoreForm = () => {
   const { handleNext } = useStepper();
@@ -22,6 +23,7 @@ const ShopifyStoreForm = () => {
   });
   const [apiResponse, setApiResponse] = useState(null);
   const [error, setError] = useState(null);
+  const [isLoading, setLoading] = useState(false);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -37,6 +39,7 @@ const ShopifyStoreForm = () => {
     setApiResponse(null);
 
     try {
+      setLoading(true);
       const response = await fetch(
         `${import.meta.env.VITE_BACKEND_URL}/api/shop`,
         {
@@ -64,6 +67,8 @@ const ShopifyStoreForm = () => {
     } catch (err) {
       setError(err.message);
       console.error("Error submitting form:", err);
+    } finally {
+      setLoading(false);
     }
   };
 
@@ -76,7 +81,7 @@ const ShopifyStoreForm = () => {
         }
       />
       <Box marginY={4}>
-        <Card variant="outlined">
+        <Card>
           <CardContent>
             <Typography variant="h6" gutterBottom>
               Follow the steps
@@ -205,14 +210,15 @@ const ShopifyStoreForm = () => {
                 <Button color="primary" variant="contained" sx={{ mt: 2 }}>
                   Back
                 </Button>
-                <Button
+                <LoadingButton
                   type="submit"
+                  loading={isLoading}
                   variant="contained"
                   color="primary"
                   sx={{ mt: 2 }}
                 >
                   Submit
-                </Button>
+                </LoadingButton>
               </Stack>
             </Box>
           </CardContent>

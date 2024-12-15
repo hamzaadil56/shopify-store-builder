@@ -12,7 +12,7 @@ export default function StepDescriptionContainer({
 }) {
   return (
     <Box sx={{ minWidth: 275 }}>
-      <Card variant="outlined">
+      <Card>
         {" "}
         <CardContent>
           <Typography gutterBottom sx={{ fontSize: 24 }}>

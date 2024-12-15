@@ -15,7 +15,7 @@ export default function StepActionCard() {
   };
   return (
     <Box sx={{ minWidth: 275, mt: 4 }}>
-      <Card variant="outlined">
+      <Card>
         <CardContent>
           <Typography sx={{ color: "text.secondary", fontSize: 18 }}>
             Once your store created, come back on this page and press Next.

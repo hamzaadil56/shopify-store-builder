@@ -14,6 +14,8 @@ import RadioGroup from "@mui/material/RadioGroup";
 import FormControlLabel from "@mui/material/FormControlLabel";
 import FormControl from "@mui/material/FormControl";
 import { LoadingButton } from "@mui/lab";
+import { toast } from "react-toastify";
+import { useStepper } from "../context/stepperContext";
 
 const colors = ["black", "green", "red"];
 const niches = [
@@ -27,6 +29,7 @@ const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 const CustomizationStep = () => {
+  const { handleNext } = useStepper();
   const [loading, setLoading] = useState(false);
   const [formData, setFormData] = useState({
     niche: "",
@@ -154,10 +157,17 @@ const CustomizationStep = () => {
             const productData = await createProduct(
               collectionData?.collectionId
             );
-            productData?.productIds?.map(async (product) => {
-              const message = await publishProduct(product, publicationId);
-              return message;
-            });
+            const productsPromises = productData?.productIds?.map(
+              async (product) => {
+                const message = await publishProduct(product, publicationId);
+                return message;
+              }
+            );
+            const results = await Promise.all(productsPromises);
+            if (results?.length > 0) {
+              toast.success("Your store has been created successfully!");
+              handleNext();
+            }
           }
         }
       } else {

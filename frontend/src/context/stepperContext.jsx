@@ -3,6 +3,8 @@ import Step1Container from "../containers/Step1Container";
 import ShopifyConfigForm from "../containers/ShopifyConfigForm";
 import SubscriptionStep from "../containers/SubscriptionStep";
 import CustomizationStep from "../containers/CustomizationStep";
+import StoreAccess from "../containers/StoreAccess";
+import ZendropIntegration from "../containers/ZendropIntegration";
 
 // Steps data
 const steps = [
@@ -29,13 +31,13 @@ const steps = [
   {
     label: "Store access",
     description: `Removing password protection to allow cutomers access.`,
-    component: <Step1Container />,
+    component: <StoreAccess />,
   },
   {
     label: "Zendrop integration (Optional)",
     description: `Zendrop integration (Optional)
 Integrating Zendrop to facilitate your orders fulfilment.`,
-    component: <Step1Container />,
+    component: <ZendropIntegration />,
   },
 ];
 
