@@ -159,6 +159,12 @@ const publishTheme = async (req, res) => {
       query,
       variables
     );
+    if (response.data.themePublish.userErrors.length > 0) {
+      return res.status(500).json({
+        error: "Failed to publishTheme theme",
+        details: response.data.themePublish.userErrors[0].message,
+      });
+    }
 
     res.status(200).json({
       message: "Theme published successfully",
@@ -249,13 +255,13 @@ const createProduct = async (req, res) => {
 
     // Create promises for all items in selectedNicheData
     if (selectedNicheData && selectedNicheData.length > 0) {
-      promises = selectedNicheData.map((item) => {
+      promises = selectedNicheData.map((item, index) => {
         const variables = {
           input: {
             title: item?.title,
-            descriptionHtml: item?.description,
+            descriptionHtml: item?.descriptionHtml,
             collectionsToJoin: [collectionId],
-            handle: item?.handle,
+            handle: `${item?.handle}-${item?.id}`,
           },
           media: item?.images?.map((image) => ({
             originalSource: image,
@@ -271,38 +277,19 @@ const createProduct = async (req, res) => {
 
     const results = await Promise.all(promises);
     console.log(results[0], "results");
-    // const variables = {
-    //   input: {
-    //     title: "Multi-purpose eyebrow trimmer",
-    //   },
-    //   media: [
-    //     {
-    //       originalSource:
-    //         "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/12eeb80a-5e97-4c19-8d80-5aaa41216d87_800x800_f7e4b7fd-f771-451f-991a-6c24da523c27.jpg",
-    //       alt: "Eye brow trimmer",
-    //       mediaContentType: "IMAGE",
-    //     },
-    //   ],
-    //   product: {
-    //     collectionsToJoin: [collectionId],
-    //   },
-    // };
-
-    // const response = await shopifyGraphQLRequest(
-    //   storeUrl,
-    //   accessToken,
-    //   query,
-    //   variables
-    // );
 
     const productIds = results.map((response) => {
       const product = response.data?.productCreate?.product;
+      if (response.data?.productCreate?.userErrors?.length > 0) {
+        return response.data?.productCreate?.userErrors[0]?.message;
+      }
+
       return product?.id;
     });
 
     res.status(200).json({
       message: "Products added successfully",
-      results,
+      productIds,
     });
   } catch (error) {
     console.error("Error adding products:", error);

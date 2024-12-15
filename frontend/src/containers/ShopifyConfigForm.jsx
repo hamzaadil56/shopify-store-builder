@@ -37,23 +37,28 @@ const ShopifyStoreForm = () => {
     setApiResponse(null);
 
     try {
-      const response = await fetch(import.meta.env.VITE_BACKEND_URL, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          token: formData?.accessToken,
-          storeUrl: `https://${formData?.storeName}/admin/api/2024-10/graphql.json`,
-        }),
-      });
+      const response = await fetch(
+        `${import.meta.env.VITE_BACKEND_URL}/api/shop`,
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            token: formData?.accessToken,
+            storeUrl: `https://${formData?.storeName}/admin/api/2024-10/graphql.json`,
+          }),
+        }
+      );
 
       const data = await response.json();
-      handleNext();
 
       if (data.errors) {
         throw new Error(data.errors.map((err) => err.message).join(", "));
       }
+
+      localStorage.setItem("shopifyConfig", JSON.stringify(formData));
+      handleNext();
 
       setApiResponse(data);
     } catch (err) {

@@ -13,7 +13,7 @@ import Radio from "@mui/material/Radio";
 import RadioGroup from "@mui/material/RadioGroup";
 import FormControlLabel from "@mui/material/FormControlLabel";
 import FormControl from "@mui/material/FormControl";
-import FormLabel from "@mui/material/FormLabel";
+import { LoadingButton } from "@mui/lab";
 
 const colors = ["black", "green", "red"];
 const niches = [
@@ -24,11 +24,15 @@ const niches = [
 
 const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
 
+const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
 const CustomizationStep = () => {
+  const [loading, setLoading] = useState(false);
   const [formData, setFormData] = useState({
     niche: "",
     colorScheme: "",
   });
+  const shopifyConfig = JSON.parse(localStorage.getItem("shopifyConfig"));
 
   const handleChange = (event) => {
     const { name, value } = event.target;
@@ -38,8 +42,132 @@ const CustomizationStep = () => {
     }));
   };
 
+  const createTheme = async () => {
+    const response = await fetch(`${BACKEND_URL}/api/create-theme`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        ...formData,
+        storeUrl: `https://${shopifyConfig?.storeName}/admin/api/2024-10/graphql.json`,
+        accessToken: shopifyConfig?.accessToken,
+      }),
+    });
+    const data = await response.json();
+    return data;
+  };
+
+  const publishTheme = async (themeId) => {
+    const response = await fetch(`${BACKEND_URL}/api/publish-theme`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        themeId: themeId,
+        storeUrl: `https://${shopifyConfig?.storeName}/admin/api/2024-10/graphql.json`,
+        accessToken: shopifyConfig?.accessToken,
+      }),
+    });
+
+    const publishData = await response.json();
+    return publishData;
+  };
+
+  const getCollectionId = async () => {
+    const response = await fetch(`${BACKEND_URL}/api/get-collection-id`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        storeUrl: `https://${shopifyConfig?.storeName}/admin/api/2024-10/graphql.json`,
+        accessToken: shopifyConfig?.accessToken,
+      }),
+    });
+    const collectionData = await response.json();
+    return collectionData;
+  };
+
+  const getPublicationId = async () => {
+    const response = await fetch(`${BACKEND_URL}/api/getPublicationId`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        storeUrl: `https://${shopifyConfig?.storeName}/admin/api/2024-10/graphql.json`,
+        accessToken: shopifyConfig?.accessToken,
+      }),
+    });
+    const collectionData = await response.json();
+    return collectionData?.publicationId;
+  };
+
+  const publishProduct = async (productId, publicationId) => {
+    const response = await fetch(`${BACKEND_URL}/api/publishProduct`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        storeUrl: `https://${shopifyConfig?.storeName}/admin/api/2024-10/graphql.json`,
+        accessToken: shopifyConfig?.accessToken,
+        productId: productId,
+        publicationId: publicationId,
+      }),
+    });
+    const publishedData = await response.json();
+    return publishedData?.message;
+  };
+
+  const createProduct = async (collectionId) => {
+    const response = await fetch(`${BACKEND_URL}/api/create-product`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        niche: formData?.niche,
+        storeUrl: `https://${shopifyConfig?.storeName}/admin/api/2024-10/graphql.json`,
+        accessToken: shopifyConfig?.accessToken,
+        collectionId: collectionId,
+      }),
+    });
+    const productData = await response.json();
+    return productData;
+  };
   const handleSubmit = async (event) => {
     event.preventDefault();
+    try {
+      setLoading(true);
+      const createdTheme = await createTheme();
+      if (createdTheme?.theme?.id) {
+        await delay(100000);
+
+        const publishData = await publishTheme(createdTheme?.theme?.id);
+        if (publishData?.theme?.id) {
+          const collectionData = await getCollectionId();
+          const publicationId = await getPublicationId();
+          if (collectionData?.collectionId) {
+            const productData = await createProduct(
+              collectionData?.collectionId
+            );
+            productData?.productIds?.map(async (product) => {
+              const message = await publishProduct(product, publicationId);
+              return message;
+            });
+          }
+        }
+      } else {
+        throw new Error(data?.error);
+      }
+    } catch (error) {
+      console.error("Error:", error);
+    } finally {
+      setLoading(false);
+    }
   };
   return (
     <div>
@@ -139,9 +267,14 @@ const CustomizationStep = () => {
                 <Typography color="text.secondary" component={"p"}>
                   Press the button to start the building process.
                 </Typography>
-                <Button variant="contained" sx={{ maxWidth: 400 }}>
+                <LoadingButton
+                  type="submit"
+                  variant="contained"
+                  loading={loading}
+                  sx={{ maxWidth: 400 }}
+                >
                   Build my store
-                </Button>
+                </LoadingButton>
                 <Typography
                   color="text.secondary"
                   component={"p"}
@@ -158,12 +291,7 @@ const CustomizationStep = () => {
                 <Button color="primary" variant="contained" sx={{ mt: 2 }}>
                   Back
                 </Button>
-                <Button
-                  type="submit"
-                  variant="contained"
-                  color="primary"
-                  sx={{ mt: 2 }}
-                >
+                <Button variant="contained" color="primary" sx={{ mt: 2 }}>
                   Next
                 </Button>
               </Stack>
