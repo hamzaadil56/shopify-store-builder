@@ -38,8 +38,12 @@
     "title": "Blender Bottle",
     "descriptionHtml": "",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/dnyyap1682506478227.jpg?v=1694271235"
-    ]
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/dnyyap1682506478227.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/pfnvhe1682506501614.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/jxnufe1682506522750.jpg"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "portable-blender-bottle"
   },
   {
     "id": 2,
@@ -47,8 +51,12 @@
     "title": "Electronic Cupping Therapy",
     "descriptionHtml": "",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/pixelcut-export-1659930296993_720x_cace2cc0-11a7-407d-8d6d-ba8b8b109f74.webp?v=1683137365"
-    ]
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/pixelcut-export-1659930296993_720x_cace2cc0-11a7-407d-8d6d-ba8b8b109f74.webp",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/Post70_720x_7576cda6-4fcb-4b9d-b721-b70c6b2367b3.webp",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/pixelcut-export-1660036958439_720x_ebd96ad6-38e3-47e5-9de4-58e3d746a7e5.webp"
+    ],
+    "handle": "smartcup",
+    "vendor": "http://makeprofit.ai"
   },
   {
     "id": 3,
@@ -56,8 +64,11 @@
     "title": "Neck and shoulder massager",
     "descriptionHtml": "",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/Massagerheating.webp?v=1683137370"
-    ]
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/Massagerheating.webp",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/Material.webp"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "rename-neck-and-shoulder-massager"
   },
   {
     "id": 1,
@@ -65,8 +76,13 @@
     "title": "Heated portable pot",
     "descriptionHtml": "",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/61ceiUh8RgS._AC_SL1000.jpg?v=1682869829"
-    ]
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/61ceiUh8RgS._AC_SL1000.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/71albyvpEBS._AC_SL1500.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/71YdkAGUg4S._AC_SL1500.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/61K40xUbz0S._AC_SL1500.jpg"
+    ],
+    "handle": "olla-portatil",
+    "vendor": "http://makeprofit.ai"
   },
   {
     "id": 2,
@@ -74,7 +90,24 @@
     "title": "Bottle mixer",
     "descriptionHtml": "",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/dnyyap1682506478227.jpg?v=1694271235"
-    ]
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/dnyyap1682506478227.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/pfnvhe1682506501614.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/jxnufe1682506522750.jpg"
+    ],
+    "handle": "portable-blender-bottle",
+    "vendor": "http://makeprofit.ai"
+  },
+  {
+    "id": 3,
+    "niche": "kitchen",
+    "title": "Kitchen sink faucet extenders with 360° rotation",
+    "descriptionHtml": "",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/s-l1600_cb2e879f-6536-4646-8506-13451a98967e.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/s-l1600_1_1b2c2aa5-58f3-47d4-9452-12ccb81b0cfb.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/s-l1600_3_1e12c812-24b9-47bd-9f73-a94d6a5e74cb.jpg"
+    ],
+    "handle": "360-rotation-kitchen-sink-faucet-extenders",
+    "vendor": "http://makeprofit.ai"
   }
 ]

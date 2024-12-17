@@ -98,7 +98,7 @@ const SubscriptionStep = () => {
                 component={"span"}
                 gutterBottom
               >
-                Trial
+                {formData?.plan}
               </Typography>
               <Typography
                 sx={{ color: "text.secondary" }}

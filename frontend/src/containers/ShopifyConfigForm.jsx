@@ -60,7 +60,13 @@ const ShopifyStoreForm = () => {
         throw new Error("Could not found this store!");
       }
 
-      localStorage.setItem("shopifyConfig", JSON.stringify(formData));
+      localStorage.setItem(
+        "shopifyConfig",
+        JSON.stringify({
+          ...formData,
+          plan: data?.plan,
+        })
+      );
       await sendEmail();
       handleNext();
 
