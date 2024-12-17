@@ -19,6 +19,7 @@ const StoreAccess = () => {
         stepDescription={
           "This step consists in authorizing us to use our AI tools to build and customize your store. You can do so by setting your access scopes, and we'll do the rest. No worries, it takes 2 minutes, and we'll guide you along the way. Simply follow the steps below or watch the explanatory video."
         }
+        stepNumber={5}
       />
       <Box marginY={4}>
         <Card>

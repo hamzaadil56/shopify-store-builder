@@ -15,7 +15,7 @@ import { useStepper } from "../context/stepperContext";
 import { LoadingButton } from "@mui/lab";
 
 const ShopifyStoreForm = () => {
-  const { handleNext } = useStepper();
+  const { handleNext, handleBack } = useStepper();
   const [formData, setFormData] = useState({
     accessToken: "",
     storeName: "",
@@ -56,19 +56,48 @@ const ShopifyStoreForm = () => {
 
       const data = await response.json();
 
-      if (data.errors) {
-        throw new Error(data.errors.map((err) => err.message).join(", "));
+      if (data.error) {
+        throw new Error("Could not found this store!");
       }
 
       localStorage.setItem("shopifyConfig", JSON.stringify(formData));
+      await sendEmail();
       handleNext();
 
-      setApiResponse(data);
+      // setApiResponse(data);
     } catch (err) {
       setError(err.message);
       console.error("Error submitting form:", err);
     } finally {
       setLoading(false);
+    }
+  };
+
+  const sendEmail = async () => {
+    try {
+      const response = await fetch(
+        `${
+          import.meta.env.VITE_BACKEND_URL
+        }/api/send-email-after-creating-store`,
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            email: formData?.email,
+          }),
+        }
+      );
+
+      if (response.ok) {
+        return { success: true };
+      } else {
+        return { success: false };
+      }
+    } catch (error) {
+      console.error("Error sending email:", error);
+      return { success: false };
     }
   };
 
@@ -79,6 +108,7 @@ const ShopifyStoreForm = () => {
         stepDescription={
           "This step consists in authorizing us to use our AI tools to build and customize your store. You can do so by setting your access scopes, and we'll do the rest. No worries, it takes 2 minutes, and we'll guide you along the way. Simply follow the steps below or watch the explanatory video."
         }
+        stepNumber={2}
       />
       <Box marginY={4}>
         <Card>
@@ -207,7 +237,12 @@ const ShopifyStoreForm = () => {
               )}
 
               <Stack direction={"row"} justifyContent={"space-between"}>
-                <Button color="primary" variant="contained" sx={{ mt: 2 }}>
+                <Button
+                  onClick={handleBack}
+                  color="primary"
+                  variant="contained"
+                  sx={{ mt: 2 }}
+                >
                   Back
                 </Button>
                 <LoadingButton

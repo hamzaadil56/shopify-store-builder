@@ -10,6 +10,7 @@ const Step1Container = () => {
       <StepDescriptionContainer
         stepTitle={"Create your Store"}
         stepDescription={`Use our link below to create your online store using Shopify, it takes only 1 minute. We have a partnership with Shopify and it is important that you use this link if you want our AI to build your store. When your store is created, come back on this page and press "Next".`}
+        stepNumber={1}
       />
       <StepActionCard />
     </Box>

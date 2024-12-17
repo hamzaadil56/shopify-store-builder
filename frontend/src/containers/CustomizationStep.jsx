@@ -29,7 +29,7 @@ const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 const CustomizationStep = () => {
-  const { handleNext } = useStepper();
+  const { handleNext, handleBack } = useStepper();
   const [loading, setLoading] = useState(false);
   const [formData, setFormData] = useState({
     niche: "",
@@ -186,6 +186,7 @@ const CustomizationStep = () => {
         stepDescription={
           "Choose your niche and color scheme, and let our expertise weave them into a stunning online store tailored just for you. Together, we'll craft a digital storefront that not only reflects ypur unique vision but also captivates your audience, ensuring a memorable shopping experience from click to checkout. "
         }
+        stepNumber={4}
       />
       <Box marginY={4}>
         <form onSubmit={handleSubmit} action="">
@@ -298,7 +299,12 @@ const CustomizationStep = () => {
                 </Typography>
               </Stack>
               <Stack direction={"row"} justifyContent={"space-between"}>
-                <Button color="primary" variant="contained" sx={{ mt: 2 }}>
+                <Button
+                  onClick={handleBack}
+                  color="primary"
+                  variant="contained"
+                  sx={{ mt: 2 }}
+                >
                   Back
                 </Button>
                 <Button variant="contained" color="primary" sx={{ mt: 2 }}>

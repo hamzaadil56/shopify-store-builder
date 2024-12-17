@@ -17,13 +17,13 @@ export default function StepActionCard() {
     <Box sx={{ minWidth: 275, mt: 4 }}>
       <Card>
         <CardContent>
-          <Typography sx={{ color: "text.secondary", fontSize: 18 }}>
+          <Typography sx={{ color: "text.secondary", fontSize: 16 }}>
             Once your store created, come back on this page and press Next.
           </Typography>
 
           <Typography
             variant="body2"
-            sx={{ color: "text.secondary", fontSize: 18, my: 4 }}
+            sx={{ color: "text.secondary", fontSize: 16, my: 4 }}
           >
             Please note that you must create a new store using our link. Our AI
             Store Builder doesn't work with pre-existing stores.

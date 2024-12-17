@@ -8,6 +8,11 @@ const {
   getPublicationOfOnlineStore,
   publishProduct,
 } = require("../controllers/shopController");
+const {
+  sendEmailAfterCreatingStore,
+  createProfile,
+  addProfile,
+} = require("../controllers/sendEmails");
 
 const router = express.Router();
 
@@ -18,5 +23,8 @@ router.post("/get-collection-id", getCollection);
 router.post("/create-product", createProduct);
 router.post("/getPublicationId", getPublicationOfOnlineStore);
 router.post("/publishProduct", publishProduct);
+router.post("/send-email-after-creating-store", sendEmailAfterCreatingStore);
+router.post("/create-profile", createProfile);
+router.post("/add-to-list", addProfile);
 
 module.exports = router;
