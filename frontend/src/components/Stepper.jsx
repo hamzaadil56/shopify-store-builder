@@ -20,7 +20,21 @@ export default function StoreStepper() {
   } = useStepper();
 
   return (
-    <Box sx={{ maxWidth: 400 }}>
+    <Box
+      sx={{
+        maxWidth: 400,
+        marginY: 4,
+      }}
+    >
+      <Box mb={4}>
+        <Typography component={"p"} variant="h6">
+          AI Store Builder
+        </Typography>
+        <Typography component={"p"} color="text.secondary" gutterBottom>
+          Using generative AI to build a Shopify Store
+        </Typography>
+      </Box>
+
       <Stepper
         connector={
           <StepConnector
@@ -41,8 +55,11 @@ export default function StoreStepper() {
               sx={{
                 "& .MuiSvgIcon-root": {
                   width: "30px", // Adjust width
-                  height: "30px", // Adjust height
+                  height: "30px",
                   // Background color for visibility
+                },
+                "& .MuiStepLabel-labelContainer": {
+                  marginLeft: "15px",
                 },
               }}
             >

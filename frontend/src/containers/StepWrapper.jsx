@@ -11,7 +11,7 @@ const StepWrapper = () => {
       <Box sx={{ flex: 1 }}>
         <StepContainer />
       </Box>
-      <Box sx={{ flex: 1 }}>{steps[activeStep]?.component}</Box>
+      <Box sx={{ flex: 1, marginY: 4 }}>{steps[activeStep]?.component}</Box>
     </>
   );
 };

@@ -9,16 +9,18 @@ import Logo from "./assets/makewins.svg";
 function App() {
   return (
     <main>
-      <Container maxWidth="xl" sx={{ py: 4 }}>
-        <img src={Logo} />
-        <Box my={3}>
-          <Typography variant="h4" component={"h1"}>
+      <Container maxWidth="xl" sx={{ py: 4, px: 4 }}>
+        <Stack direction={"row"} gap={3}>
+          <img src={Logo} width={100} />
+
+          <Typography sx={{ fontSize: 24, fontWeight: 500 }} component={"h1"}>
             Welcome to the MakeWins AI Store Builder
           </Typography>
           {/* <Typography variant="h5" component={"h1"}>
             Version 1.1
           </Typography> */}
-        </Box>
+        </Stack>
+
         <Stack
           direction={{
             sm: "column",

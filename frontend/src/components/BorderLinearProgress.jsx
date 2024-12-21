@@ -6,7 +6,7 @@ const LinearProgressWithLabel = () => {
   const { progress } = useStepper();
 
   return (
-    <Box sx={{ width: "100%" }}>
+    <Box sx={{ width: "100%", my: 2 }}>
       <Stack spacing={2}>
         <Box sx={{ display: "flex", alignItems: "center" }}>
           <Box sx={{ width: "100%", mr: 1 }}>

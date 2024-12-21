@@ -18,7 +18,7 @@ export default function StepDescriptionContainer({
         {" "}
         <CardContent>
           <CustomBadge step={`Step ${stepNumber}`} />
-          <Typography gutterBottom sx={{ fontSize: 20 }}>
+          <Typography gutterBottom sx={{ fontSize: 20, mb: 2 }}>
             {stepTitle}
           </Typography>
 

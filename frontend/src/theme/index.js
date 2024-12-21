@@ -12,7 +12,7 @@ export const theme = createTheme({
     mode: "dark",
   },
   typography: {
-    fontFamily: "Montserrat, sans-serif",
+    fontFamily: "Inter, sans-serif",
   },
   components: {
     // Name of the component
@@ -23,6 +23,14 @@ export const theme = createTheme({
           // Some CSS
           textTransform: "capitalize",
           fontWeight: "bold",
+        },
+      },
+    },
+    MuiCard: {
+      styleOverrides: {
+        root: {
+          borderRadius: "20px",
+          backgroundColor: "#0e0e0f",
         },
       },
     },

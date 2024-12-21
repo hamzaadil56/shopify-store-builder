@@ -13,6 +13,7 @@ import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import { useStepper } from "../context/stepperContext";
 import { LoadingButton } from "@mui/lab";
+import FollowIcon from "../components/FollowIcon";
 
 const ShopifyStoreForm = () => {
   const { handleNext, handleBack } = useStepper();
@@ -119,9 +120,11 @@ const ShopifyStoreForm = () => {
       <Box marginY={4}>
         <Card>
           <CardContent>
-            <Typography variant="h6" gutterBottom>
-              Follow the steps
-            </Typography>
+            <Stack direction={"row"} gap={2} alignItems={"center"}>
+              <FollowIcon />
+              <Typography variant="h6">Follow the steps</Typography>
+            </Stack>
+
             <Box sx={{ color: "text.secondary", fontSize: 18 }}>
               {/* Previous steps remain the same */}
               <Typography
