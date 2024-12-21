@@ -57,7 +57,7 @@ const ShopifyStoreForm = () => {
       const data = await response.json();
 
       if (data.error) {
-        throw new Error("Could not found this store!");
+        throw new Error(data?.error || "Internal Server Error");
       }
 
       localStorage.setItem(

@@ -1,0 +1,399 @@
+[
+  {
+    "id": 1,
+    "niche": "smartgadgets",
+    "title": "Car compartment key",
+    "descriptionHtml": "<div style=\"text-align: center;\">Nuestra <strong>[Nombre de la Marca]</strong><strong> ™</strong><strong> Llave de Coche con Compartimento</strong> está diseñada específicamente para mantener tus posesiones más valiosas ocultas.</div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\">Nuestras <strong>llaves de coche</strong> replican la estética de una llave de coche estándar, PERO cuentan con un compartimento oculto para <strong>guardar tus objetos</strong>, sea lo que sea.</div> <div style=\"text-align: center;\"><strong> </strong></div> <div style=\"text-align: center;\">Estas <strong>llaves de coche</strong> se ven idénticas a las reales, brindándote <strong>más tranquilidad</strong> y tiempo para enfocarte en lo que <strong>deseas.</strong></div> <div style=\"text-align: center;\"><strong> </strong></div> <div style=\"text-align: center;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0719/1733/8924/files/ElliemaySherwin_6862661942033616133_480x480.gif?v=1682865230\"></div> <div style=\"text-align: center;\"><strong>Por qué necesitas [Nombre de la Marca]</strong><strong> ™</strong><strong>:</strong></div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\"><strong>- Diseño pequeño:</strong> Nuestros productos son lo suficientemente pequeños como para <strong>guardarlos cómodamente en tu bolsillo.</strong></div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\"> <strong>- Fácil de usar:</strong> Llave desmontable para esconder con facilidad.</div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\"><strong>- Buen aspecto:</strong> Nuestros diseños están pensados para personas con gusto exquisito.</div> <div style=\"text-align: center;\"><strong> </strong></div> <div style=\"text-align: center;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0719/1733/8924/files/GIF1_3488aefa-1954-4b49-8ba1-b3fe857bba0c_480x480.gif?v=1682865244\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/car-key-safe-stash-119829168.jpg?v=1682869834",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/car-key-safe-stash-119829170.jpg?v=1682869834",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/car-key-safe-stash.jpg?v=1682869834",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/car-key-safe-stash-119829169.jpg?v=1682869834"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "compartimento-para-coche",
+    "productOptions": [
+      {
+        "name": "Color",
+        "values": [
+          {
+            "name": "Black"
+          }
+        ],
+        "price": 14.99,
+        "compareAtPrice": 12.99
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "niche": "smartgadgets",
+    "title": "Charging lamp",
+    "descriptionHtml": "<div style=\"text-align: center;\">¿Te gusta una <strong>estética limpia?</strong></div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\">Nuestra <strong>Lámpara Cargadora</strong> ayudará a que tu habitación luzca <strong>estilosa</strong> mientras también ofrece un verdadero valor para <strong>cargar tu teléfono.</strong></div> <div style=\"text-align: center;\"><strong> </strong></div> <div style=\"text-align: center;\">Aprovecha al máximo con nuestra <strong>App.</strong> Simplemente coloca tu teléfono en la base de carga para comenzar a cargarlo y usa la app para <strong>ajustar la iluminación a tu estado de ánimo.</strong></div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0719/1733/8924/files/gif1_25c5c755-6f52-4ed8-aee8-398bfb9e40cf_480x480.gif?v=1682865665\"></div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\"><strong>Nuestras características principales:</strong></div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\"><strong>- Fácil de usar:</strong> Solo descarga nuestra app y ajusta el brillo.</div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\"><strong>- Multiuso: Ahorra espacio </strong>y usa nuestra lámpara no solo como fuente de luz, sino también como <strong>alarma y cargador.</strong></div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\"><strong>- Cargador rápido:</strong> ¡Nuestras lámparas están diseñadas con cargadores rápidos de 15W! Permiten que tu teléfono recupere su batería en <strong>muy poco tiempo.</strong></div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0719/1733/8924/files/EasytoGet_7198296928612830470_480x480.gif?v=1682865679\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/71cbsYKGLOL._AC_SL1500.jpg?v=1682869839",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/61teaA8AHvL._AC_SL1500.jpg?v=1682869839",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/61sjWcZPI7L._AC_SL1500.jpg?v=1682869839",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/71CkTY6KtiL._AC_SL1500.jpg?v=1682869839"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "cargador-lámpara",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 59.99,
+        "compareAtPrice": 69.99
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "niche": "smartgadgets",
+    "title": "Smart ashtray",
+    "descriptionHtml": "<div style=\"text-align: center;\">Hemos diseñado el futuro con <strong>nuestro cenicero inteligente.</strong></div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\">Es hora de promover un <strong>estilo de vida más saludable</strong> y <strong>mejorar la calidad del aire</strong> a tu alrededor con nuestro purificador de aire.</div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\"><strong>¿Por qué nosotros?</strong> Nuestro cenicero inteligente y elegante permite tener <strong>aire limpio y fresco</strong>, beneficiándote a ti y a tu <strong>hogar.</strong></div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0719/1733/8924/files/SmokeNope_LinkInBio__7211808361996750086_480x480.gif?v=1682866234\"></div> <div style=\"text-align: center;\"> </div> <h3 style=\"text-align: center;\"><strong>Nuestros beneficios:</strong></h3> <div style=\"text-align: center;\"><strong>- Apto para la familia:</strong> Mantén a tu familia y niños <strong>seguros</strong> de los <strong>efectos nocivos de la contaminación del aire</strong> utilizando nuestro purificador.</div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\"><strong>- Reduce olores:</strong> Ya no necesitarás sentirte mal o cohibido por el olor.</div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\"><strong>- Fácil de usar:</strong> Simplemente presiona para comenzar.</div> <div style=\"text-align: center;\"> </div> <div style=\"text-align: center;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0719/1733/8924/files/SmokeNope_LinkInBio__7221679055999929605_480x480.gif?v=1682866251\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/051892c1-5d46-4716-b429-e5bbf083237c.jpg?v=1682869844",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/12ae1fa9-ab63-4b99-bd58-0c63ee3d98c4.jpg?v=1682869844",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/6ca7ad63-1298-4b58-b533-3dbaba816fa0.jpg?v=1682869844",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/95e89012-fb44-4248-a13b-0801a3aa479f.jpg?v=1682869844"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "bandeja-inteligente",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 24.99,
+        "compareAtPrice": 29.99
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "niche": "smartgadgets",
+    "title": "Blender bottle",
+    "descriptionHtml": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\" style=\"text-align: center;\"> <h3><strong>¿Tratando de Mantenerte Saludable?</strong></h3> <div>¡No tiene por qué ser difícil! Nuestra <strong>[Nombre de la Marca]™ Botella Licuadora</strong> te permite <strong>disfrutar de un jugo/smoothie fresco mientras te desplazas</strong>!</div> <div><strong> </strong></div> <div>Nuestra <strong>[Nombre de la Marca]™ Botella Licuadora</strong> está diseñada para hacer la <strong>vida lo más fácil posible.</strong> La potente licuadora permite <strong>cualquier combinación de frutas que desees</strong>!</div> <div><br><strong></strong></div> </div> <div class=\"column\" style=\"text-align: center;\"> <img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/gif_4_480x480.gif?v=1694271418\"> </div> <div class=\"column\" style=\"text-align: center;\"> <div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <h3><strong>Por Qué Elegir Nuestras [Nombre de la Marca]™ Botellas Licuadoras:</strong></h3> <p><strong>Fácil de Usar:</strong> Simplemente carga tu licuadora, pon tus frutas y <strong>¡licúa en cualquier lugar!</strong></p> <p><strong>Estética:</strong> No necesitas sentirte fuera de lugar, <strong>nuestras botellas lucen muy elegantes</strong> y la <strong>licuadora es impecable</strong>!</p> <p><strong>Silenciosa:</strong> Nuestra licuadora <strong>no solo es rápida</strong>, sino que también es bastante <strong>silenciosa,</strong> lo que te permite <strong>licuar sobre la marcha</strong>!</p> <p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Untitled_design_3_1_480x480_1e11a367-7a24-4df5-92c8-6a58aa0cca61_480x480.gif?v=1694271497\"></p> </div> </div> </div> </div> </div> </div> </div> </div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/dnyyap1682506478227.jpg?v=1694271235",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/pfnvhe1682506501614.jpg?v=1694271235",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/jxnufe1682506522750.jpg?v=1694271235",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/gkxeqz1682506515032.jpg?v=1694271235",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/btpqvn1682506505056.jpg?v=1694271235",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/bgbvmr1682506519438.jpg?v=1694271213"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "portable-blender-bottle",
+    "productOptions": [
+      {
+        "name": "Color",
+        "values": [
+          {
+            "name": "White"
+          }
+        ],
+        "price": 39.99,
+        "compareAtPrice": 54.99
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "niche": "smartgadgets",
+    "title": "Reusable double-sided tape",
+    "descriptionHtml": "<div style=\"text-align: center;\">¡Hemos diseñado el futuro con <strong data-mce-fragment=\"1\">nuestra Cinta Doble Cara Reutilizable</strong><br></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"></strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\">Ahorra <strong data-mce-fragment=\"1\">dinero y reduce el desperdicio</strong> con esta cinta ecológica. La cinta doble cara reutilizable es una solución <strong data-mce-fragment=\"1\">fuerte y conveniente</strong> para <strong data-mce-fragment=\"1\">tareas pesadas</strong>.<br></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">¿Por qué nosotros?</strong> Nuestra cinta versátil se puede usar en una <strong data-mce-fragment=\"1\">variedad de superficies</strong>, incluyendo papel, plástico, metal y más.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/VIDEO2GIF_480x480.gif?v=1675253094\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Nuestros Beneficios:</strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">- Fuerte Unión en Múltiples Superficies:</strong> Esto permite efectos no dañinos en las superficies</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">- Ahorra dinero:</strong> Nuestro producto es un <strong data-mce-fragment=\"1\">sustituto económico</strong> para <strong data-mce-fragment=\"1\">evitar daños adicionales.</strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">- Fácil de usar:</strong> No se requieren <strong data-mce-fragment=\"1\">habilidades previas ni formación</strong> para usar nuestro producto.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/VIDEO1GIF_480x480.gif?v=1675253083\"> </div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/16685022787c523da0196d519b657b4f787ff9a063_7fbd3828-129b-4727-8561-2f5ccd3349d3.webp?v=1687124812",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/16685022791748801dff7817166e013400873e9f46_thumbnail_600x_35c52695-2f73-4877-a1c1-55474339873a.webp?v=1687124812",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/1668502283dead669fb33ea1a33e38ffb3a8a852c2_thumbnail_600x_d058332b-16e9-4657-a532-60b9732f31b3.webp?v=1687124812",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/1668502280fd2c59579f024a02b446340565eaa037_thumbnail_600x_2f420475-8a70-4a9d-ab67-5411fd7be10e.webp?v=1687124812"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "double-sided-reusable-tape",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 5.99,
+        "compareAtPrice": 7.99
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "niche": "smartgadgets",
+    "title": "LCD digital kitchen scale Spoon",
+    "descriptionHtml": "<div style=\"text-align: center;\">Nuestra <strong data-mce-fragment=\"1\">[Nombre de Marca]</strong><strong data-mce-fragment=\"1\"> ™</strong><strong data-mce-fragment=\"1\"> Cucharón LCD</strong> está diseñado específicamente para mantener tus mediciones precisas.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">¿Por qué elegirnos?</strong> Nuestra balanza de alta precisión con cucharón versátil está diseñada para hacer la vida lo más fácil y precisa posible.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Nuestras cucharas</strong> vienen con pantallas LCD retroiluminadas y pueden cambiar <strong data-mce-fragment=\"1\">entre unidades métricas e imperiales</strong>.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/kikiloveshare03_7115038071699066154_480x480.gif?v=1675253450\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">¿Por qué necesitas [Nombre de Marca]</strong><strong data-mce-fragment=\"1\"> ™</strong><strong data-mce-fragment=\"1\">?</strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">- Duradero:</strong> Cucharón de <strong data-mce-fragment=\"1\">acero inoxidable</strong> para medir.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">- Fácil de limpiar:</strong> Cucharón desmontable para una fácil limpieza.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">- Menos molestias:</strong> Usar con una sola mano elimina la necesidad de balanzas.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/videogif1_af2fe7b6-2bb7-4cb7-a38d-a56c3f455c48_480x480.gif?v=1675253699\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/s-l1600_3_1b3bfe2a-af7c-4da0-8764-b0195d0563a1.jpg?v=1687124817",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/s-l1600_6_32d21001-1f38-41a0-92a6-ffbe287c6072.jpg?v=1687124817",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/s-l1600_1_96659b55-b6bd-4202-86f6-896a4c64fd64.jpg?v=1687124817",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/s-l1600_5_49cb55a2-1f54-4737-bd12-a6088f10cc76.jpg?v=1687124817",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/s-l1600_4_4341296b-cec5-4e60-84cf-92f5000f6c40.jpg?v=1687124817"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "lcd-digital-kitchen-scale-spoon",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 7.99,
+        "compareAtPrice": 12.99
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "niche": "smartgadgets",
+    "title": "Charging bracelet",
+    "descriptionHtml": "<div data-mce-fragment=\"1\" style=\"text-align: center;\">Nuestras <strong data-mce-fragment=\"1\">[Nombre de Marca]</strong><strong data-mce-fragment=\"1\"> ™</strong><strong data-mce-fragment=\"1\"> Pulseras</strong> están diseñadas específicamente para lucir bien mientras mantienen tu teléfono completamente cargado.</div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"> </div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">¿Por qué elegirnos?</strong> Nuestro <strong data-mce-fragment=\"1\">cargador portátil</strong> tiene un diseño elegante, lo que facilita su transporte y asegura que tu teléfono nunca se quede sin batería.</div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"> </div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">Nuestras Pulseras</strong> también cuentan con <strong data-mce-fragment=\"1\">tecnología de carga rápida</strong> para ahorrarte tiempo valioso.</div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"><strong data-mce-fragment=\"1\"> </strong></div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"><strong data-mce-fragment=\"1\"><img src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/BraceletEnergy_7186622862122405166_480x480.gif?v=1675262388\" alt=\"\"></strong></div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"> </div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">¿Por qué necesitas [Nombre de Marca]</strong><strong data-mce-fragment=\"1\"> ™</strong> <strong data-mce-fragment=\"1\">Pulseras</strong><strong data-mce-fragment=\"1\">:</strong></div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"> </div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">- Duraderas:</strong> Banda trenzada de alta calidad.</div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"> </div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"><strong data-mce-fragment=\"1\">- Talla única:</strong> Nuestro diseño asegura que solo se necesite una talla para todos.</div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"> </div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">- Ligera:</strong> Una Pulsera solo pesa 54g, lo que la hace fácil de llevar cómodamente.</div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"><strong data-mce-fragment=\"1\"> </strong></div> <div data-mce-fragment=\"1\" style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/BraceletEnergy_7186622862122405166copy_480x480.gif?v=1675262378\" alt=\"\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/Sfffff1e68f4f47d6816a7e8e853e5c90z_720x720_0c6c365c-58a0-437d-8060-3e862b5653ab.jpg?v=1687124823",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/Sc0b7c1c613314104803b96af235c73b6V_720x720_dbd47b97-a10c-4bb6-83c5-87a5deae98a5.jpg?v=1687124823",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/S4c7e20949e9948caabc1187e33380f9cY_720x720_4c64c9c6-e8b5-4ad8-9943-f7b2978ab6e0.jpg?v=1687124823",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/image_720x720_41c6b193-2fcd-458d-8f49-44b32292083f.jpg?v=1687124823",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/image_720x720_4c592c29-18ce-49d4-907e-301bf504eb24.jpg?v=1687124823",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/image_180x180_447ff48b-c5eb-4d91-9cb6-bb720fa1ce1e.jpg?v=1687124823"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "charging-bracelet",
+    "productOptions": [
+      {
+        "name": "Color",
+        "values": [
+          {
+            "name": "Black"
+          }
+        ],
+        "price": 24.99
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "niche": "smartgadgets",
+    "title": "Fingerprint lock",
+    "descriptionHtml": "<div style=\"text-align: center;\"><meta charset=\"utf-8\"></div> <h3 style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">¿Alguna vez olvidas tu código de bloqueo?</strong></h3> <h3 style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"></strong></h3> <div style=\"text-align: center;\" data-mce-fragment=\"1\">¡Sabemos que sí! Por eso hemos creado <strong>nuestro Candado de Huella Digital.</strong><span data-mce-fragment=\"1\"> </span> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">Nuestros Candados</strong> te permiten abrirlos simplemente con la <strong>presión de tu dedo.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"></strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Collateral__7194533734576852229_480x480.gif?v=1688993401\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Collateral__7194533734576852229_480x480.gif?v=1688993401\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Características Principales:</strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Altamente Seguro:</strong> Nuestros candados con escáneres de huellas digitales son <strong>altamente seguros</strong> para asegurar que <strong>¡nadie más pueda acceder!</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Fácil de Usar:</strong> Simplemente <strong data-mce-fragment=\"1\">coloca tu dedo en la plataforma del escáner</strong> para que tu <strong data-mce-fragment=\"1\">candado se abra.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Alta Calidad:</strong> Estos <b>candados</b> están hechos de materiales de alta calidad para asegurar que su <span data-mce-fragment=\"1\"> </span><strong data-mce-fragment=\"1\">durabilidad dure el mayor tiempo posible y nadie pueda forzarlos.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\"></strong><br data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Collateral__7189021450756574469_480x480.gif?v=1688993407\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Collateral__7189021450756574469_480x480.gif?v=1688993407\"> </div> <div style=\"text-align: center;\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/KERUI-Keyless-USB-Charging-Fingerprint-Lock-Smart-Padlock-Waterproof-Door-Lock-0-2sec-Unlock-Portable-Anti_jpg.webp?v=1688993593",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/product-image-1010539616_1024x1024_2x_e7ec32d7-c661-45ba-b400-c2ea3677569e.jpg?v=1702646982",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/product-image-1010539617_1024x1024_2x_cadd5b30-e923-4dfe-9141-47de49b95e27.jpg?v=1702646982"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "fingerprint-lock",
+    "productOptions": [
+      {
+        "name": "Color",
+        "values": [
+          {
+            "name": "Silver"
+          }
+        ],
+        "price": 34.99,
+        "compareAtPrice": 49.99
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "niche": "smartgadgets",
+    "title": "Portable printer",
+    "descriptionHtml": "<div style=\"text-align: center;\"><meta charset=\"utf-8\"></div> <h3 style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><strong data-mce-fragment=\"1\">¿Alguna vez necesitas una impresora y no tienes una cerca?</strong></h3> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong>¡Sabemos que sí!</strong> Por eso hemos creado <strong>una Impresora Portátil.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">Nuestras Impresoras</strong><span data-mce-fragment=\"1\"> </span>te dan la <strong>flexibilidad de poder estudiar donde quieras</strong> sin necesidad de dejar tu escritorio para tener tu <strong>copia impresa lista.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"></strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/BeingSmart_7228406196586188040_480x480.gif?v=1688994257\" alt=\"\" data-mce-fragment=\"1\" width=\"300\" height=\"299\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/BeingSmart_7228406196586188040_480x480.gif?v=1688994257\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><strong data-mce-fragment=\"1\">Características Clave de Nuestras Impresoras:</strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">- Conexión Rápida:</strong> <strong>No tienes que esperar mucho</strong> ya que nuestras impresoras tienen <strong>tiempos de conexión ultra rápidos.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><strong></strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">- Fácil de Usar:</strong> Simplemente <strong data-mce-fragment=\"1\">conecta tu teléfono a la impresora</strong> y imprime lo que desees. </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">- Alta Calidad:</strong> Estos <span data-mce-fragment=\"1\"> </span><b data-mce-fragment=\"1\">impresoras</b><span data-mce-fragment=\"1\"> </span> están hechos de materiales de alta calidad para asegurar que su <span data-mce-fragment=\"1\"> </span><strong data-mce-fragment=\"1\">durabilidad dure el mayor tiempo posible.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\"></strong><br data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/BeingSmart_7231679685149707528_1_480x480.gif?v=1688994267\" alt=\"\" data-mce-fragment=\"1\" width=\"300\" height=\"299\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/BeingSmart_7231679685149707528_1_480x480.gif?v=1688994267\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/94240230-44da-412f-90f8-547402e7f53d.dcadcde5a7d016293d4a874d68747e6f_1296x_d803d514-4f55-49f1-9a25-ddf492f87e83.webp?v=1702647503",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/575049e6-b511-4bdd-82f0-c37764832612.857069e4da161b7aba6b0af986e74225_1296x_c7862b14-4878-4710-bcf9-eabcff2429af.webp?v=1702647503",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/6be9aeb7b316915d697c3df5a91923b8.jpg?v=1702647503",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Phomemo-T02-Portable-Mini-Wireless-Thermal-Pocket-Printer-Self-adhesive-Stickers-Use-for-DIY-Journal-Sticker-8.jpg?v=1702647495",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/S58568efef24f4a9fa5e28578b09b73a9Z.jpg?v=1702647495"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "portable-printer",
+    "productOptions": [
+      {
+        "name": "Color",
+        "values": [
+          {
+            "name": "Blue"
+          }
+        ],
+        "price": 74.99,
+        "compareAtPrice": 99.99
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "niche": "smartgadgets",
+    "title": "Digital tape measure",
+    "descriptionHtml": "<div style=\"text-align: center;\"><meta charset=\"utf-8\"></div> <h3 style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">¿Cansado de luchar para medir cosas?</strong></h3> <div style=\"text-align: center;\" data-mce-fragment=\"1\">Bueno, ¡nosotros no pretendemos que no lo estemos! Nuestro <strong data-mce-fragment=\"1\">[Nombre de Marca]™ Medidor</strong><span data-mce-fragment=\"1\"> te permite obtener el número que deseas sin perder tiempo.</span> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\">Nuestro <strong>medidor</strong> está diseñado para permitirte <strong>divertirte con las cosas simples de la vida.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/DigitalMeasurementPro_7264097336618519814-no-watermark_1_1_1_480x480.gif?v=1694253582\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/DigitalMeasurementPro_7264097336618519814-no-watermark_1_1_1_480x480.gif?v=1694253582\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <meta charset=\"utf-8\"> <strong data-mce-fragment=\"1\">Precisión Extrema:</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Nuestro dispositivo tiene <strong>5 configuraciones</strong> que te permiten <strong>medir con precisión superficies planas, esféricas y en ángulo.</strong></span></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <span data-mce-fragment=\"1\"></span><br data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/DigitalMeasurementPro_7271282878334455045-no-watermark_1_2_480x480.gif?v=1694254096\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/S093cc30be0ca43e1811da5ee1abd4c95I.jpg?v=1694254353",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/S28b2907b40e44dea9b7235a7aeb54092y.jpg?v=1694254354",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/S62217a302300427dab323644e0575503w.jpg?v=1694254352",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/S82442c1274254edd842170997ef244820.jpg?v=1694254353",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/H6c3fed977e5b4ade915ceb292b4ea11fl.jpg?v=1694254353",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/He66a15f5e22348318cd4a54261f21577D.jpg?v=1694254352"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "digital-measurement-tape",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 35.99,
+        "compareAtPrice": 39.99
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "niche": "smartgadgets",
+    "title": "Privacy screen",
+    "descriptionHtml": "<div style=\"text-align: center;\"><meta charset=\"utf-8\"></div> <h3 style=\"text-align: center;\" data-mce-fragment=\"1\"><strong>¿Estás cansado de que la gente mire tu pantalla?</strong></h3> <div style=\"text-align: center;\" data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\">Nuestro <span data-mce-fragment=\"1\"> </span><strong data-mce-fragment=\"1\">[Nombre de Marca]</strong><strong data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"> </span>™</strong><strong data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"> </span> Pantallas</strong> están diseñadas para ofrecerte la <strong>privacidad que mereces.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">¿Por qué elegirnos?</strong><span data-mce-fragment=\"1\"> </span>Nuestros<span data-mce-fragment=\"1\"> <b>protectores de pantalla de privacidad</b></span><span data-mce-fragment=\"1\"> tienen</span> una doble capacidad, permitiéndote ver claramente pero <strong>evitando que la persona a tu lado observe tu pantalla.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"></strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Techterio_7276547123892538656-no-watermark_1_1_480x480.gif?v=1694254878\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Techterio_7276547123892538656-no-watermark_1_1_480x480.gif?v=1694254878\"></strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">¿Por qué necesitas [Nombre de Marca]</strong><strong data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"> </span>™</strong><span data-mce-fragment=\"1\"> </span><strong data-mce-fragment=\"1\">Pantallas:</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Buena Calidad:</strong> No solo <strong data-mce-fragment=\"1\">protege tu pantalla de los demás</strong>, sino que también <strong data-mce-fragment=\"1\">protege tu teléfono.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Fácil de Colocar:</strong><span data-mce-fragment=\"1\"> </span>Nuestro diseño asegura que <strong>todos puedan aplicar esta pantalla fácilmente.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Liviana:</strong> Nuestras pantallas son <strong data-mce-fragment=\"1\">NO pesadas<span data-mce-fragment=\"1\"> </span></strong>solo pesan 54g, lo que facilita llevarlas cómodamente.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Techterio_7276547123892538656-no-watermark_1_2_480x480.gif?v=1694255043\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Techterio_7276547123892538656-no-watermark_1_2_480x480.gif?v=1694255043\"></strong></div> <div style=\"text-align: center;\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/SilverPrivacyCase_800x_79d5ad3d-adbf-402f-9e98-211ce68b9126.jpg?v=1696844152",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/RedPrivacy_800x_b944f6fc-b211-4848-9ae8-6223194f864b.jpg?v=1696844152",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/blueprivacy_800x_f51385f3-d18c-45ab-bf5c-4298f9202583.jpg?v=1696844152",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/GreenPrivacy_800x_56820b21-3bd1-4f8b-b1b4-d3903240a2a1.jpg?v=1696844152"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "privacy-screen",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 22.99
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "niche": "smartgadgets",
+    "title": "LED memo board",
+    "descriptionHtml": "<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><meta charset=\"utf-8\"></div> <h3 style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\">Fácil y Conveniente<br></h3> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\">El <strong>[Nombre de Marca]</strong> LED Note Board es muy fácil de usar, haciendo que <strong>la creatividad y la expresión sean un juego de niños</strong><br></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\">Con su <strong>diseño único</strong>, escribir y dibujar se convierte en una <strong>experiencia novedosa</strong>, y borrar tus creaciones es igual de sencillo.<br></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/S5dd37c05be684cbebfc11332c4821351F_480x480_9e0c0800-5e28-44c8-8690-e72f19900082.webp?v=1694255465\" alt=\"\" width=\"335\" height=\"335\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/S5dd37c05be684cbebfc11332c4821351F_480x480_9e0c0800-5e28-44c8-8690-e72f19900082.webp?v=1694255465\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <h3 style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Nuestras Principales Características:</strong></h3> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Aprendizaje Visual:</strong><span data-mce-fragment=\"1\"> El dibujo práctico <strong>mejora las habilidades cognitivas</strong>, fomentando el desarrollo integral</span> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Creatividad:<span data-mce-fragment=\"1\"> </span></strong>Empodera a los niños,<strong data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"> aumentando la autoconfianza</span></strong> en sus habilidades y destrezas creativas </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Aumenta el Enfoque:<span data-mce-fragment=\"1\"> </span></strong>Fomenta la experimentación,<strong data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"> promoviendo el pensamiento innovador </span></strong>&amp; la capacidad de concentración </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/giphy_eaaa5d7c-7b1b-453f-801a-35bc009b404b.gif?v=1694255503\" alt=\"\" width=\"345\" height=\"345\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/giphy_eaaa5d7c-7b1b-453f-801a-35bc009b404b.gif?v=1694255503\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download-5.webp?v=1694255802",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download-3_ba99ba5e-21d0-43db-a734-e8012e8bd365.webp?v=1694255802",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download-4.webp?v=1694255803",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download-1_566d262d-8e98-4bd5-a547-c3bd6b1ff4be.webp?v=1694255802",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download-2_280f9b53-5b9a-4334-87a8-6334ffed4d57.webp?v=1694255802"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "led-note-board",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 23.99,
+        "compareAtPrice": 34.99
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "niche": "smartgadgets",
+    "title": "Arcade Console",
+    "descriptionHtml": "<div style=\"text-align: center;\"><meta charset=\"utf-8\"></div> <h3 style=\"text-align: center;\" data-mce-fragment=\"1\">¿Alguna vez te sientes<span data-mce-fragment=\"1\"> </span><strong data-mce-fragment=\"1\">aburrido en clase o en casa?</strong></h3> <div style=\"text-align: center;\" data-mce-fragment=\"1\">Nuestra <strong data-mce-fragment=\"1\">[Nombre de Marca]™ Arcade Console<span data-mce-fragment=\"1\"> </span></strong><span data-mce-fragment=\"1\">se asegura de que, sin importar dónde estés, siempre haya <strong data-mce-fragment=\"1\">algo que hacer!</strong></span> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">Aprovecha al máximo</strong><span data-mce-fragment=\"1\"> </span>nuestra consola arcade,<strong data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"> </span>independientemente de si tu teléfono está apagado o encendido</strong>, siempre tendrás un juego para jugar. </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Gifpocket_1_480x480.gif?v=1694255878\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Nuestras Principales Características:</strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Estético:</strong> No solo son <span data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">discretos</strong></span><strong data-mce-fragment=\"1\">, ¡sino que también se ven bien!</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Fácil de Usar:</strong><span data-mce-fragment=\"1\"> </span><strong>Simplemente presiona el botón de encendido</strong> y elige un juego para <strong>luchar y ganar!</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Ligero:<span data-mce-fragment=\"1\"> </span></strong>Estos son <strong>fáciles de llevar</strong>, convirtiéndolo en el <strong>compañero de viaje perfecto.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\"></strong><br data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/PocketArcade_7266630003054382378-no-watermark_1_480x480.gif?v=1694255999\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/PocketArcade_7266630003054382378-no-watermark_1_480x480.gif?v=1694255999\"></div> <div style=\"text-align: center;\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/1.jpg?v=1694256033",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/2-1.jpg?v=1694256033",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/pocketplay-handheld-game-console-246234.jpg?v=1694256033",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/pocketplay-handheld-game-console-115032.jpg?v=1694256034",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/pocketplay-handheld-game-console-841233.jpg?v=1694256033"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "arcade-console",
+    "productOptions": [
+      {
+        "name": "Color",
+        "values": [
+          {
+            "name": "White"
+          }
+        ],
+        "price": 159.99,
+        "compareAtPrice": 199.99
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "niche": "smartgadgets",
+    "title": "LCD Calculator",
+    "descriptionHtml": "<div style=\"text-align: center;\"><meta charset=\"utf-8\"></div> <h3 style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><strong data-mce-fragment=\"1\">¿Alguna vez te cuesta tomar notas de tus cálculos en matemáticas?</strong></h3> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">¡Sabemos que a nosotros sí!</strong><span data-mce-fragment=\"1\"> </span>Por eso hemos creado el<strong data-mce-fragment=\"1\"> [Nombre de Marca]™ Calculadora LCD.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">Nuestras calculadoras</strong><span data-mce-fragment=\"1\"> </span>te brindan la <strong>flexibilidad</strong> de poder usar tu<strong> calculadora </strong>y también tener un<strong> bloc de notas listo.</strong> ¡Evitando que<strong> pierdas tiempo!</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"></strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Calcupad_7255416067936259371-no-watermark_1_480x480.gif?v=1694256528\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><strong data-mce-fragment=\"1\">Características Clave de Nuestras Calculadoras:</strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">- De Pluma a Bloc:</strong> <strong data-mce-fragment=\"1\">Simplemente</strong> toma tu <strong>pluma y comienza a escribir</strong> en el panel LCD para tomar notas. </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\"></strong><br data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">- Fácil de Usar: </strong>Simplemente<strong data-mce-fragment=\"1\"> abre tu calculadora</strong> ¡y comienza a trabajar! </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><br data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">- Alta Calidad:<span data-mce-fragment=\"1\"> </span></strong>Estas<span data-mce-fragment=\"1\"> </span><b data-mce-fragment=\"1\">calculadoras</b><span data-mce-fragment=\"1\"> </span>están hechas de material de alta calidad para garantizar que su <strong data-mce-fragment=\"1\">durabilidad dure lo máximo posible.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\"></strong><br data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><strong data-mce-fragment=\"1\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Calcupad_7242039733029801259-no-watermark_1_480x480.gif?v=1694256533\"></strong></div> <div style=\"text-align: center;\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/2d77f22ca81a39f62b27c6917f13b388.webp?v=1694256885",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/00eeb58c67282fa5032f043ac9413930.webp?v=1694256885",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/b3b292b01d731b6685367ec4778e1866.webp?v=1694256886",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/9b356c07dd01188411f8841894c97570.webp?v=1694256884",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/e49780b4cd2a281e5585cff8c63d07e9.webp?v=1694256884",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/df516f806999c301f9659b0ad9e0d04b.webp?v=1694256885"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "lcd-calculator",
+    "productOptions": [
+      {
+        "name": "Color",
+        "values": [
+          {
+            "name": "Black"
+          }
+        ],
+        "price": 32.99,
+        "compareAtPrice": 42.99
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "niche": "smartgadgets",
+    "title": "Smart remote control",
+    "descriptionHtml": "<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><meta charset=\"utf-8\"></div> <h3 style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\">¡Controla Todo Desde Tu Teléfono!<br></h3> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\">El Adaptador IR para Teléfonos [nombre de la marca] es un adaptador plug-and-go que te permite controlar hasta 15 dispositivos utilizando solo tu teléfono.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\"> </strong><br> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\">¡Es como tener un control remoto mágico para tu televisor, aire acondicionado, luces y más!<br></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download_dc8cefe0-caec-4b66-bdf0-52936d0166a1.webp?v=1694257344\" alt=\"\" width=\"309\" height=\"309\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download_dc8cefe0-caec-4b66-bdf0-52936d0166a1.webp?v=1694257344\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> </div> <h3 style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><strong data-mce-fragment=\"1\">¡Configuración Fácil, Compatibilidad Universal!</strong></h3> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><span data-mce-fragment=\"1\"><meta charset=\"utf-8\">El Adaptador IR para Teléfonos [nombre de la marca] es muy fácil de configurar y funciona con casi cualquier dispositivo que use señales IR.</span></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\">Es un gadget genial que facilita tu vida al darte control sobre todos los dispositivos desde un solo lugar.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/ezgif-5-832b00322b.webp?v=1694257423\" alt=\"\" width=\"309\" height=\"309\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/ezgif-5-832b00322b.webp?v=1694257423\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download-1_1fd876cd-0ef6-4e5b-b6d4-1bf254b6a1b6.webp?v=1694257550",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download-3_98c97409-a17f-4506-ac1d-c9491f08f8fd.webp?v=1694257551",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download-2_ad7997a6-ca14-4337-9893-901f91c41fd5.webp?v=1694257550",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download-4_ecbbf985-4013-4c05-bbcb-719fc5d876e7.webp?v=1694257550"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "infrared-phone-adapter",
+    "productOptions": [
+      {
+        "name": "Color",
+        "values": [
+          {
+            "name": "Black"
+          }
+        ],
+        "price": 14.99,
+        "compareAtPrice": 19.99
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "niche": "smartgadgets",
+    "title": "Airpod Cleaning Kit",
+    "descriptionHtml": "<meta charset=\"utf-8\"> <h3 style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><strong data-mce-fragment=\"1\">¿Tus Airpods Se Ensucian?</strong></h3> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">¡Sabemos que los nuestros sí!</strong><span data-mce-fragment=\"1\"> Hemos inventado nuestro kit de limpieza para evitar tener que <strong>preocuparnos por esto nuevamente.</strong></span> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">Nuestro Kit de Limpieza para Airpods [Nombre de la Marca]™ </strong>te brinda la <span data-mce-fragment=\"1\"> </span><strong data-mce-fragment=\"1\">flexibilidad</strong><span data-mce-fragment=\"1\"> </span>de poder <strong>limpiar tus Airpods en cualquier momento y <strong>mantener la higiene.</strong></strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/BrightmMural_7253431228739767553-no-watermark_2_1_480x480.gif?v=1694268351\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/BrightmMural_7253431228739767553-no-watermark_2_1_480x480.gif?v=1694268351\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><strong data-mce-fragment=\"1\">Características Clave de Nuestro Kit de Limpieza para Airpods:</strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">- Fácil de Usar:</strong> <strong data-mce-fragment=\"1\">Simplemente</strong><span data-mce-fragment=\"1\"> </span>toma tu <strong>kit</strong> y comienza a <strong>limpiar</strong> tus Airpods.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\"></strong><br data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">- Higiénico:</strong> ¡Elimina TODOS los gérmenes de tus oídos!</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><br data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\">- Alta Calidad:</strong> Estos <span data-mce-fragment=\"1\"> </span><b data-mce-fragment=\"1\">kits de limpieza</b><span data-mce-fragment=\"1\"> </span>están hechos de material de alta calidad para asegurar que su <span data-mce-fragment=\"1\"> </span><strong data-mce-fragment=\"1\">durabilidad dure el mayor tiempo posible.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> <strong data-mce-fragment=\"1\"></strong><br data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/ezgif-1-d7b5185e54_480x480_1ce403b5-ab33-4a96-a3d3-2cfc47f5af6e_480x480_1_480x480.gif?v=1694268385\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\"> </div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/image_9a7ea8f5-2001-462d-a282-44426a678f3d.jpg?v=1694268794",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/image_f6a1e3df-59e8-4013-a278-2f50c8fc03dc.jpg?v=1694268795",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/image_65b4f177-815f-4182-afe3-a7318339f5b8.jpg?v=1694268794",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/ScreenShot2022-03-26at9.11.16PM.png?v=1694268794"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "airpod-cleaning-kit",
+    "productOptions": [
+      {
+        "name": "Color",
+        "values": [
+          {
+            "name": "White"
+          }
+        ],
+        "price": 13.99,
+        "compareAtPrice": 19.99
+      }
+    ]
+  }
+]

@@ -22,6 +22,9 @@ const niches = [
   { label: "Fitness And Gym", value: "fitnessAndGym" },
   { label: "Beauty", value: "beauty" },
   { label: "Kitchen", value: "kitchen" },
+  { label: "Pets", value: "pets" },
+  { label: "Toys and Babies", value: "toysAndBabies" },
+  { label: "Smart Gadgets", value: "smartgadgets" },
 ];
 
 const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;

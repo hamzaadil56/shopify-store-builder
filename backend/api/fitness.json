@@ -1,0 +1,309 @@
+[
+  {
+    "id": 1,
+    "niche": "fitnessAndGym",
+    "title": "Blender Bottle",
+    "descriptionHtml": "<div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\" style=\"text-align: center;\"> <h3><strong>¿Tratando de Mantenerte Saludable?</strong></h3> <div>¡No tiene por qué ser difícil! Nuestra <strong>[Nombre de la Marca]™ Botella Licuadora</strong> te permite <strong>disfrutar de un jugo/smoothie fresco mientras te desplazas</strong>!</div> <div><strong> </strong></div> <div>Nuestra <strong>[Nombre de la Marca]™ Botella Licuadora</strong> está diseñada para hacer la <strong>vida lo más fácil posible.</strong> La potente licuadora permite <strong>cualquier combinación de frutas que desees</strong>!</div> <div><br><strong></strong></div> </div> <div class=\"column\" style=\"text-align: center;\"> <img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/gif_4_480x480.gif?v=1694271418\"> </div> <div class=\"column\" style=\"text-align: center;\"> <div class=\"page\" title=\"Page 3\"> <div class=\"section\"> <div class=\"layoutArea\"> <div class=\"column\"> <h3><strong>Por Qué Elegir Nuestras [Nombre de la Marca]™ Botellas Licuadoras:</strong></h3> <p><strong>Fácil de Usar:</strong> Simplemente carga tu licuadora, pon tus frutas y <strong>¡licúa en cualquier lugar!</strong></p> <p><strong>Estética:</strong> No necesitas sentirte fuera de lugar, <strong>nuestras botellas lucen muy elegantes</strong> y la <strong>licuadora es impecable</strong>!</p> <p><strong>Silenciosa:</strong> Nuestra licuadora <strong>no solo es rápida</strong>, sino que también es bastante <strong>silenciosa,</strong> lo que te permite <strong>licuar sobre la marcha</strong>!</p> <p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Untitled_design_3_1_480x480_1e11a367-7a24-4df5-92c8-6a58aa0cca61_480x480.gif?v=1694271497\"></p> </div> </div> </div> </div> </div> </div> </div> </div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/dnyyap1682506478227.jpg?v=1694271235",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/pfnvhe1682506501614.jpg?v=1694271235",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/jxnufe1682506522750.jpg?v=1694271235",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/gkxeqz1682506515032.jpg?v=1694271235",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/btpqvn1682506505056.jpg?v=1694271235",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/bgbvmr1682506519438.jpg?v=1694271213"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "portable-blender-bottle",
+    "productOptions": [
+      {
+        "name": "Color",
+        "values": [
+          {
+            "name": "White"
+          }
+        ],
+        "price": 39.99,
+        "compareAtPrice": 54.99
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "niche": "fitnessAndGym",
+    "title": "Electronic Cupping Therapy",
+    "descriptionHtml": "<p class=\"p1\" style=\"text-align: center;\"> <strong>Nuestra [Nombre de la Marca]™ SmartCup</strong> es nuestro dispositivo revolucionario de terapia con ventosas dinámicas. Combina la terapia con ventosas antigua con terapia de Luz Roja y Calor. </p> <p class=\"p1\" style=\"text-align: center;\"> <strong>¿Por qué usarlo?</strong> Nuestro masajeador ayuda a aliviar los nudos musculares y la tensión, mejorando el rendimiento y la recuperación muscular. </p> <p class=\"p1\" style=\"text-align: center;\"> Además, reduce la inflamación, libera toxinas y estrés utilizando succión programada y </p> <p class=\"p1\" style=\"text-align: center;\"> modos de calor ajustables con una pantalla LCD fácil de usar. </p> <p class=\"p1\" style=\"text-align: center;\"> <img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0706/7838/0834/files/NewGIF_480x480.gif?v=1674734427\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0706/7838/0834/files/NewGIF_480x480.gif?v=1674734427\"> </p> <h3 class=\"p1\" style=\"text-align: center;\">CARACTERÍSTICAS DEL SMARTCUP:</h3> <p class=\"p1\" style=\"text-align: center;\"> - Tres funciones: ventosas con presión negativa, raspado y masaje </p> <p class=\"p1\" style=\"text-align: center;\"> - Dos modos: Modo de presión negativa profunda y modo de masaje pulsante </p> <p class=\"p1\" style=\"text-align: center;\"> - Una carga completa de la batería proporciona 7 días de uso </p> <p class=\"p1\" style=\"text-align: center;\"> - Portátil, recargable y compacto </p> <p class=\"p1\" style=\"text-align: center;\"> <img src=\"https://cdn.shopify.com/s/files/1/0706/7838/0834/files/GIF_480x480.gif?v=1674687545\" alt=\"\"> </p> <h3 class=\"p1\" style=\"text-align: center;\">NUESTROS BENEFICIOS:</h3> <p class=\"p1\" style=\"text-align: center;\"> - Libera nudos dolorosos y tensión </p> <p class=\"p1\" style=\"text-align: center;\"> - Mejora la circulación y el flujo sanguíneo </p> <p class=\"p1\" style=\"text-align: center;\"> - Reduce la inflamación y refuerza la inmunidad celular </p> <p class=\"p1\" style=\"text-align: center;\"> - Elimina toxinas y promueve una mejor movilidad </p> <p class=\"p1\" style=\"text-align: center;\"> - Suaviza el tejido cicatricial y la celulitis </p>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/pixelcut-export-1659930296993_720x_cace2cc0-11a7-407d-8d6d-ba8b8b109f74.webp?v=1683137365",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/Post70_720x_7576cda6-4fcb-4b9d-b721-b70c6b2367b3.webp?v=1683137365",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/pixelcut-export-1660036958439_720x_ebd96ad6-38e3-47e5-9de4-58e3d746a7e5.webp?v=1683137365",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/FingerRed_720x_0a02183c-97b6-4b3d-82ed-2bdb4403d90a.webp?v=1683137365",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/324925356_211555504675689_8879197769928804023_n_720x_a720da2e-3ead-49dc-9c1e-58a594c62a23.webp?v=1683137365"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "smartcup",
+    "productOptions": [
+      {
+        "name": "Color",
+        "values": [
+          {
+            "name": "Black"
+          }
+        ],
+        "price": 24.99
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "niche": "fitnessAndGym",
+    "title": "Neck and shoulder massager",
+    "descriptionHtml": "<h3 style=\"text-align: center;\" class=\"p1\">RELÁJATE DESDE LA COMODIDAD DE TU HOGAR</h3> <p style=\"text-align: center;\" class=\"p2\"> <strong>Nuestro [Nombre de la Marca]™ Masajeador</strong> es el producto perfecto para una sesión de relajación definitiva, siempre que lo necesites. </p> <p style=\"text-align: center;\" class=\"p2\"> Este producto es ideal para personas que pasan <strong>múltiples horas al día sentadas en un escritorio</strong> y también para aquellos que pasan <strong>innumerables horas ejercitándose</strong>! </p> <p style=\"text-align: center;\" class=\"p2\"> Ahora, desde la comodidad de tu hogar u oficina, puedes disfrutar de los beneficios de un potente masaje que imita las manos humanas para calmar cualquier dolor y relajar todos los músculos cansados y adoloridos. </p> <p style=\"text-align: center;\" class=\"p2\"> <img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0706/7838/0834/files/GIF_6411fa36-e934-431e-8794-aeab90847f1a_480x480.gif?v=1674687662\"> </p> <h3 style=\"text-align: center;\" class=\"p3\">BENEFICIOS MULTIPROPÓSITO</h3> <ul> <li> <div style=\"text-align: center;\">Alivio instantáneo del dolor</div> </li> <li style=\"text-align: center;\"> <div>Masaje en el cuello, espalda, cintura, abdomen y piernas.</div> </li> <li style=\"text-align: center;\"> <div>8 rodillos de masaje <strong>Shiatsu</strong> con calentamiento profundo.</div> </li> <li style=\"text-align: center;\"> <div>Movimiento en sentido horario o antihorario.</div> </li> <li style=\"text-align: center;\"> <div><strong>3 niveles</strong> de velocidad diferentes.</div> </li> <li style=\"text-align: center;\"> <div>Hecho de <strong>cuero de alta calidad</strong></div> </li> </ul> <div style=\"text-align: center;\"> <img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0706/7838/0834/files/NEWGIF_e2a07c9c-2070-4c8d-86a2-26452274f5b6_480x480.gif?v=1674734441\"> </div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/Massagerheating.webp?v=1683137370",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/Massagermodes.webp?v=1683137370",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/Material.webp?v=1683137370",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/mechanics.webp?v=1683137370"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "rename-neck-and-shoulder-massager",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 64.99,
+        "compareAtPrice": 99.99
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "niche": "fitnessAndGym",
+    "title": "LCD Digital Kitchen Scale Spoon",
+    "descriptionHtml": "<div style=\"text-align: center;\">Nuestra <strong data-mce-fragment=\"1\">[Nombre de Marca]</strong><strong data-mce-fragment=\"1\"> ™</strong><strong data-mce-fragment=\"1\"> Cucharón LCD</strong> está diseñado específicamente para mantener tus mediciones precisas.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">¿Por qué elegirnos?</strong> Nuestra balanza de alta precisión con cucharón versátil está diseñada para hacer la vida lo más fácil y precisa posible.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Nuestras cucharas</strong> vienen con pantallas LCD retroiluminadas y pueden cambiar <strong data-mce-fragment=\"1\">entre unidades métricas e imperiales</strong>.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/kikiloveshare03_7115038071699066154_480x480.gif?v=1675253450\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">¿Por qué necesitas [Nombre de Marca]</strong><strong data-mce-fragment=\"1\"> ™</strong><strong data-mce-fragment=\"1\">?</strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">- Duradero:</strong> Cucharón de <strong data-mce-fragment=\"1\">acero inoxidable</strong> para medir.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">- Fácil de limpiar:</strong> Cucharón desmontable para una fácil limpieza.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">- Menos molestias:</strong> Usar con una sola mano elimina la necesidad de balanzas.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/videogif1_af2fe7b6-2bb7-4cb7-a38d-a56c3f455c48_480x480.gif?v=1675253699\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/s-l1600_3_1b3bfe2a-af7c-4da0-8764-b0195d0563a1.jpg?v=1687124817",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/s-l1600_6_32d21001-1f38-41a0-92a6-ffbe287c6072.jpg?v=1687124817",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/s-l1600_1_96659b55-b6bd-4202-86f6-896a4c64fd64.jpg?v=1687124817",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/s-l1600_5_49cb55a2-1f54-4737-bd12-a6088f10cc76.jpg?v=1687124817",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/s-l1600_4_4341296b-cec5-4e60-84cf-92f5000f6c40.jpg?v=1687124817"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "lcd-digital-kitchen-scale-spoon",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 7.99,
+        "compareAtPrice": 12.99
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "niche": "fitnessAndGym",
+    "title": "Shark Slides",
+    "descriptionHtml": "<div style=\"text-align: center;\"><meta charset=\"utf-8\"></div> <h3 style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">¿Los sliders normales se están volviendo aburridos?</strong></h3> <div style=\"text-align: center;\" data-mce-fragment=\"1\">¡No pretendamos que no es así! Nuestros <strong data-mce-fragment=\"1\">[Nombre de Marca]™ Shark Slides</strong><span data-mce-fragment=\"1\"> te permiten caminar con comodidad de una manera <strong data-mce-fragment=\"1\">original y elegante.</strong></span></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\">Nuestros sliders, inspirados en los <strong data-mce-fragment=\"1\">virales \"fish flops\"</strong>, están diseñados para <span data-mce-fragment=\"1\"> <b data-mce-fragment=\"1\">hacer que veas la diversión</b> en las cosas simples!</span></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"></strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/giphy_89bd3a6a-4db1-4bd8-911f-6a8981dce071.gif?v=1694108864\" alt=\"\" width=\"341\" height=\"281\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/giphy_89bd3a6a-4db1-4bd8-911f-6a8981dce071.gif?v=1694108864\"></div> <h3 style=\"text-align: center;\" data-mce-fragment=\"1\"> <meta charset=\"utf-8\"> <strong>Zapato Para Llevar:</strong></h3> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <meta charset=\"utf-8\"> <span>Un divertido slider de tiburón que se puede <strong>usar a diario</strong>,</span> <span>ya sea para actividades <strong>indoor o outdoor</strong> </span><span>brindándote <strong>comodidad</strong> durante el uso diario.</span></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><span></span></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><span></span></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><span></span></div> <div style=\"text-align: center;\"><strong data-mce-fragment=\"1\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/giphy-1.gif?v=1694109138\" width=\"334\" height=\"334\"></strong></div> <div style=\"text-align: center;\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/d5639ca4f08c19d2366fb19dc7bc18f88cfdfbd9.webp?v=1694109503",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/a710584c696ca9e10f1b756b798b571efb1ad241.webp?v=1694109503",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Sd4926ebcfa784efbb7f6fb2f96273c7fZ.webp?v=1694109502"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "shark-slides",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 32.99,
+        "compareAtPrice": 38.99
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "niche": "fitnessAndGym",
+    "title": "Digital Tape Measure",
+    "descriptionHtml": "<div style=\"text-align: center;\"><meta charset=\"utf-8\"></div> <h3 style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">¿Cansado de luchar para medir cosas?</strong></h3> <div style=\"text-align: center;\" data-mce-fragment=\"1\">Bueno, ¡nosotros no pretendemos que no lo estemos! Nuestro <strong data-mce-fragment=\"1\">[Nombre de Marca]™ Medidor</strong><span data-mce-fragment=\"1\"> te permite obtener el número que deseas sin perder tiempo.</span> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\">Nuestro <strong>medidor</strong> está diseñado para permitirte <strong>divertirte con las cosas simples de la vida.</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/DigitalMeasurementPro_7264097336618519814-no-watermark_1_1_1_480x480.gif?v=1694253582\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/DigitalMeasurementPro_7264097336618519814-no-watermark_1_1_1_480x480.gif?v=1694253582\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <meta charset=\"utf-8\"> <strong data-mce-fragment=\"1\">Precisión Extrema:</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Nuestro dispositivo tiene <strong>5 configuraciones</strong> que te permiten <strong>medir con precisión superficies planas, esféricas y en ángulo.</strong></span></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <span data-mce-fragment=\"1\"></span><br data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/DigitalMeasurementPro_7271282878334455045-no-watermark_1_2_480x480.gif?v=1694254096\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/S093cc30be0ca43e1811da5ee1abd4c95I.jpg?v=1694254353",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/S28b2907b40e44dea9b7235a7aeb54092y.jpg?v=1694254354",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/S62217a302300427dab323644e0575503w.jpg?v=1694254352",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/S82442c1274254edd842170997ef244820.jpg?v=1694254353",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/H6c3fed977e5b4ade915ceb292b4ea11fl.jpg?v=1694254353",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/He66a15f5e22348318cd4a54261f21577D.jpg?v=1694254352"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "digital-measurement-tape",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 35.99,
+        "compareAtPrice": 39.99
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "niche": "fitnessAndGym",
+    "title": "Sleep therapy pillow",
+    "descriptionHtml": "<div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><meta charset=\"utf-8\"></div> <h3 style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\">¿Qué Hace Especial a la Almohada Terapéutica [Nombre de la Marca]?<br></h3> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\">Con <strong>9 de cada 10 clientes</strong> confirmando que nuestra almohada ayudó a obtener un <strong>mejor sueño nocturno</strong>, ¡sabemos que podemos ayudarte a <strong>eliminar la somnolencia matutina!</strong></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/ezgif-2-8c5089d32e.webp?v=1694267245\" width=\"331\" height=\"331\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\"> <h3 data-mce-fragment=\"1\">Comodidad en Múltiples Posiciones<strong data-mce-fragment=\"1\">:</strong></h3> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <meta charset=\"utf-8\"> <div style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\">Al soportar tu cuerpo entero de una manera que sea cómoda para ti, los dolores y molestias desaparecen durante la noche.<br data-mce-fragment=\"1\"> </div> <div style=\"margin: 16px 0px 0px;\" data-mce-fragment=\"1\" data-mce-style=\"margin: 16px 0px 0px;\"> <div data-pf-type=\"Section\" class=\"sc-eKYRIR llyViG pf-35_\" data-mce-fragment=\"1\"> <div class=\"sc-hmbstg iriXCP\" data-mce-fragment=\"1\"> <div class=\"sc-hiKfDv dRsyqq pf-36_ pf-r pf-r-eh\" data-pf-type=\"Row\" data-mce-fragment=\"1\"> <div class=\"pf-c\" data-mce-fragment=\"1\"> <div data-pf-type=\"Column\" class=\"sc-TtZnY gnBPmJ pf-37_\" data-mce-fragment=\"1\"> <p style=\"text-align: center;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: center;\">La forma contorneada en U envuelve tu cuerpo. La forma de reloj de arena <span data-mce-fragment=\"1\"> </span><strong data-mce-fragment=\"1\">se ajusta</strong><span data-mce-fragment=\"1\"> </span>y <strong data-mce-fragment=\"1\">contornea</strong><span data-mce-fragment=\"1\"> </span><strong data-mce-fragment=\"1\">tu espalda completa</strong><span data-mce-fragment=\"1\"> </span>mientras alinea tus caderas para <span data-mce-fragment=\"1\"> </span><strong data-mce-fragment=\"1\">una posición óptima de las articulaciones.</strong></p> </div> </div> </div> </div> </div> </div> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/pregnancy-pillow-gif.webp?v=1694267391\" alt=\"\" width=\"411\" height=\"231\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/pregnancy-pillow-gif.webp?v=1694267391\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download-1_2d41035f-ee83-4067-b831-730d8bf35eeb.webp?v=1694267548",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Pink-Pregnancy-Pillow.webp?v=1694267549",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/White-Pregnancy-Pillow.webp?v=1694267548",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/White-Pregnancy-Pillow-Featured.webp?v=1694267548"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "sleep-therapy-pillow",
+    "productOptions": [
+      {
+        "name": "Color",
+        "values": [
+          {
+            "name": "Pink"
+          }
+        ],
+        "price": 59.99,
+        "compareAtPrice": 74.99
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "niche": "fitnessAndGym",
+    "title": "Acupressure slippers",
+    "descriptionHtml": "<div style=\"text-align: center;\"><meta charset=\"utf-8\"></div> <h3 style=\"text-align: center;\" data-mce-fragment=\"1\">¡Eleva tu Bienestar Físico!</h3> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\">La acupresión es una técnica de la medicina tradicional china que consiste en aplicar presión en puntos específicos del cuerpo para estimular los procesos naturales de curación.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><br></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\">Nuestros <strong>[nombre de la marca]</strong> <span data-mce-fragment=\"1\">zapatillas de acupresión</span> están diseñadas para enfocar estos puntos y promover la relajación y aliviar el estrés.</div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/eb54aced9daab817a3794c23da153143.gif?v=1694268660\" alt=\"\" width=\"366\" height=\"366\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/eb54aced9daab817a3794c23da153143.gif?v=1694268660\"></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <h3 style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Características Clave:</strong></h3> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Puntos de Presión Ajustables:</strong> Nobs intercambiables para <strong data-mce-fragment=\"1\">dirigir la presión a partes específicas del cuerpo</strong><span data-mce-fragment=\"1\"></span> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Tamaño Ajustable:<span data-mce-fragment=\"1\"> </span></strong> Las correas de velcro ajustables permiten adaptarse a <strong>todos los tamaños de pies</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Facilita una Postura Mejorada:<span data-mce-fragment=\"1\"> </span></strong> Contribuye a fortalecer los músculos cruciales para <strong>mantener una buena postura</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/foot-massage-slippers-therapy-massager-walk-stone-shoes-144942-desc-HRD4RS3E9Q.gif?v=1694268594\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/foot-massage-slippers-therapy-massager-walk-stone-shoes-144942-desc-HRD4RS3E9Q.gif?v=1694268594\"></div> <div style=\"text-align: center;\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download-1.jpg?v=1694268851",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download-1_6253ec30-ae4f-4ad9-8b4f-e06a0de5ee6b.webp?v=1694268851",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download_89422240-4427-4e61-82a0-865f633e33c9.jpg?v=1694268851",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/download_42bd6d4e-87ab-41c2-9383-bba4c43ea1ec.webp?v=1694268850"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "acupressure-slippers",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 39.99,
+        "compareAtPrice": 49.99
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "niche": "fitnessAndGym",
+    "title": "Dual Wheel ABS Roller",
+    "descriptionHtml": "\n                        <div>\n                        <p>Revolutionize your core workouts with the Dual Wheel ABS Roller, expertly crafted for maximum efficiency and results. Explore the full potential of your core muscles with smart design and superior stability. Achieve your fitness goals with ease and precision.</p>\n                        <br>\n                        <h2>Multi-Directional Core Engagement</h2>\n                        <p>Experience versatile training with our multi-directional wheel design, allowing you to target various angles and effectively engage different core muscles. The AB Wheel boasts a sturdy wheelbase complemented by high-quality handles. Exceptional stability and control ensure a seamless workout experience every time.</p>\n                        <br>\n                        <h2>Abdominal Rebound Design</h2>\n                        <p>Maximize core engagement with our innovative rebounder mechanism, which activates your muscles on both the roll-out and return. This smart design promotes deeper abdominal contractions. Effectively sculpt your abs and enhance workout efficiency with targeted muscle activation.</p>\n                        <br>\n                        <h2>Comprehensive Core Workout Solution</h2>\n                        <p>Save time and boost efficiency with our Abs Roller that delivers a comprehensive core workout in minimal time. More than just a core tool, our AB Roller engages arms, shoulders, and back. Experience a leaner, stronger physique with every session you complete.</p>\n                        <br>\n                        <p>Elevate your fitness journey with the Dual Wheel ABS Roller, where innovation meets efficiency for unbeatable results. Discover the power of impactful workouts. Achieve your dream physique, one roll at a time.</p>\n<p></p>\n                        <br>\n                      </div>\n                      ",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/dual_wheel_ABS_roller_main.jpg?v=1733767399",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/dual_wheel_ABS_roller_1.jpg?v=1733767399",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/dual_wheel_ABS_roller_2.jpg?v=1733767399",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/dual_wheel_ABS_roller_3.jpg?v=1733767399",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/dual_wheel_ABS_roller_4.jpg?v=1733767399"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "dual-wheel-abs-roller",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 0,
+        "compareAtPrice": "deny"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "niche": "fitnessAndGym",
+    "title": "Elbow Support Automatic Muscle Trainer",
+    "descriptionHtml": "\n                        <div>\n                        <p>Discover the ultimate fitness companion with the Elbow Support Automatic Muscle Trainer. Designed to enhance your workouts, this innovative tool combines advanced technology with ergonomic features, ensuring an effective core workout experience.</p>\n                        <br>\n                        <h2>Intelligent Rebound Technology</h2>\n                        <p>Elevate your fitness routine with our cutting-edge ab roller featuring automatic rebound technology. The automatic steel rebound and intelligent auxiliary brake provide a seamless workout experience. Its built-in brake system allows for smooth, controlled movements, maximizing your exercise efficiency. Enjoy an intuitive workout with the added benefit of steel rebound smoothness. Achieve your fitness goals with ease and precision.</p>\n                        <br>\n                        <h2>Multi-Layer Anti-Slip Protection</h2>\n                        <p>Our device is engineered for stability, incorporating scientific force and automatic rebound for a user-friendly design. Constructed with five layers of anti-slip materials, it ensures safety and durability with every use. The anti-slip layer provides a strong grip, while the reinforcement layer adds strength. The shock absorption and noise reduction layers enhance your workout ambiance. The support layer guarantees long-lasting performance.</p>\n             \r\n           <br>\n                        <h2>Enhanced Control and Stability</h2>\n                        <p>Experience unparalleled stability with our abs roller, featuring wider front and back wheels. These provide a smoother rolling motion and allow for precise control, particularly beneficial for beginners. Target and tone every muscle in your core with this specially designed gear. Prioritize the safety of your body while enjoying a comprehensive workout. Enhance your capabilities and confidence with improved balance and support.</p>\n                        <br>\n                        <p>Transform your workout sessions with the Elbow Support Automatic Muscle Trainer. Designed for efficiency, comfort, and safety, it’s a must-have for dedicated fitness enthusiasts. Embrace progress and redefine your limits today.</p>\n<p></p>\n                        <br>\n                      </div>\n                      ",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/elbow_support_automatic_muscle_trainer_main.jpg?v=1733767377",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/elbow_support_automatic_muscle_trainer_1.jpg?v=1733767377",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/elbow_support_automatic_muscle_trainer_2.jpg?v=1733767377",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/elbow_support_automatic_muscle_trainer_3.jpg?v=1733767377",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/elbow_support_automatic_muscle_trainer_4.jpg?v=1733767377"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "elbow-support-automatic-muscle-trainer",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 0,
+        "compareAtPrice": "deny"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "niche": "fitnessAndGym",
+    "title": "Fitness Exercise Elastic Bands",
+    "descriptionHtml": "\n                        <div>\n                        <p>Elevate your workout routine with our Fitness Exercise Elastic Bands. These versatile bands target multiple muscle groups, helping you achieve a full-body workout wherever you are. Ideal for both beginners and fitness enthusiasts, they bring the power of the gym into the comfort of your home.</p>\n                        <br>\n                        <h2>Total Body Workout</h2>\n                        <p>These elastic bands are designed to effectively exercise your arms, shoulders, chest, back, and legs. Whether you're practicing yoga or attending fitness classes, they offer the perfect level of resistance to enhance your routine. Their adaptability allows you to incorporate a variety of exercises, making them a valuable addition to your fitness tools. Get ready to experience a new level of versatility and convenience. Perfect for attaining your fitness goals every time.</p>\n                \r\n        <br>\n                        <h2>Ergonomic Design</h2>\n                        <p>Featuring plastic handles and foam pedals, these bands ensure a comfortable grip and secure footing. The ergonomically crafted handles fit perfectly into your hands, reducing strain and irritation during prolonged sessions. The foam-padded pedals provide a snug fit around your feet, offering stability for various exercises. This thoughtful design enhances usability, allowing you to focus on achieving your workout goals. Experience the blend of comfort and functionality.</p>\n                        <br>\n                        <h2>Superior Strength Material</h2>\n                        <p>Made from natural latex, these bands consist of four tubes to deliver higher tensile strength. This construction provides increased durability and resistance, allowing you to push your limits safely. Enjoy consistent performance and elasticity that withstands the rigors of daily workouts. The natural latex also ensures a smooth and efficient motion, making each exercise session seamless. Feel the difference in quality with every stretch.</p>\n                  \r\n      <br>\n                        <p>Transform your fitness journey with our Elastic Bands, the perfect partner for home or gym workouts. Embrace functionality, comfort, and durability with every move you make. Elevate your exercise routine and achieve results that inspire.</p>\n<p></p>\n                        <br>\n         \r\n             </div>\n                      ",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/fitness_exercise_elastic_bands_main.jpg?v=1733767458",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/fitness_exercise_elastic_bands_1.jpg?v=1733767458",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/fitness_exercise_elastic_bands_2.jpg?v=1733767458",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/fitness_exercise_elastic_bands_3.jpg?v=1733767458",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/fitness_exercise_elastic_bands_4.jpg?v=1733767458"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "fitness-exercise-elastic-bands",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 0,
+        "compareAtPrice": "deny"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "niche": "fitnessAndGym",
+    "title": "Fitness Resistance Band",
+    "descriptionHtml": "\n                        <div>\n                        <p>Elevate your fitness routine with our versatile Fitness Resistance Band. Designed for strength, flexibility, and convenience, this innovative tool is your ultimate workout partner. Perfect for home, gym, or on-the-go exercises.</p>\n             \r\n           <br>\n                        <h2>Premium Quality Design</h2>\n                        <p>Our yoga fitness sticks are crafted from high-quality materials, ensuring durability and ease of use. The detachable metal tube is sturdy and built to last, while the thick foam padding offers maximum comfort. The tension rope is highly elastic and robust, providing reliable resistance. The sweat-absorbent foot ring is comfortable and effective, making it suitable for any season.</p>\n                        <br>\n                        <h2>Full-Body Workout</h2>\n                        <p>This pilates resistance band empowers you to perform a wide variety of exercises, targeting both upper and lower body muscles. Whether building muscle, losing weight, or toning arms, abs, legs, and glutes, this band is your all-in-one solution. Achieve strength training and cardio results simultaneously, enhancing overall fitness levels.</p>\n                        <br>\n                 \r\n       <h2>Portable and Convenient</h2>\n                        <p>With its lightweight, detachable, and easy setup design, this pilates stick fits seamlessly into any lifestyle. Its compact nature allows for effortless storage and mobility, whether at home, in the gym, park, garden, or office. Traveling? Simply pack it along and maintain your workout routine anywhere, anytime.</p>\n                        <br>\n                        <p>Redefine your fitness journey with this innovative Fitness Resistance Band. Adaptable, durable, and portable, it’s the perfect companion for achieving your health and wellness goals. Unlock limitless possibilities and transform the way you exercise.</p>\n<p></p>\n                        <br>\n                      </div>\n                      ",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/fitness_resistance_band_main.jpg?v=1733767346",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/fitness_resistance_band_1.jpg?v=1733767346",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/fitness_resistance_band_2.jpg?v=1733767346",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/fitness_resistance_band_3.jpg?v=1733767346",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/fitness_resistance_band_4.jpg?v=1733767346"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "fitness-resistance-band",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 0,
+        "compareAtPrice": "deny"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "niche": "fitnessAndGym",
+    "title": "Smart Fitness Tracker",
+    "descriptionHtml": "\n                        <div>\n                        <p>Elevate your fitness journey with our revolutionary Smart Fitness Tracker. Seamlessly integrate style, convenience, and advanced technology into your daily routine. Stay connected, stay active, and stay motivated every step of the way.</p>\n                        <br>\n                        <h2>Effortless Connectivity</h2>\n                        <p>Simply connect the smartwatch to your phone via Bluetooth, and you'll have the power of communication right on your wrist. Make and receive calls by dialing directly from the screen. Never miss out on important messages with real-time notifications for SMS and apps like Facebook, WhatsApp, Instagram, and Twitter. Stay informed and stay connected without ever reaching for your phone.</p>\n                        <br>\n                        <h2>Unmatched Durability</h2>\n                        <p>Designed with IP68 waterproof technology, this fitness watch is your reliable companion, rain or shine. With a robust 230mAh battery, enjoy 2 days of continuous Bluetooth calling on a single charge, while a quick 2-hour recharge gets you back on track. Plus, experience the impressive 30-day standby time, so you're always ready for action, wherever life takes you.</p>\n                        <br>\n                        <h2>Comprehensive Fitness Tracking</h2>\n                        <p>Keep an accurate log of your daily steps, distance traveled, and calories burned with our cutting-edge fitness tracker. It supports a variety of sports modes including swimming, running, and cycling, each capturing precise data tailored to your workouts. Enable GPS running to monitor your movement trajectory, viewing it easily on the map. Embrace a healthier lifestyle with a watch that encourages every effort.</p>\n                        <br>\n                        <p>The Smart Fitness Tracker is more than just a watch; it's your partner in achieving fitness goals and staying effortlessly connected. Empower your active lifestyle and redefine what's possible with this all-in-one wearable technology.</p>\n<p></p>\n                        <br>\n                      </div>\n                      ",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/smart_fitness_tracker_main.jpg?v=1733767433",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/smart_fitness_tracker_1.jpg?v=1733767433",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/smart_fitness_tracker_2.jpg?v=1733767433",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/smart_fitness_tracker_3.jpg?v=1733767433",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/smart_fitness_tracker_4.jpg?v=1733767433"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "smart-fitness-tracker",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 0,
+        "compareAtPrice": "deny"
+      }
+    ]
+  }
+]

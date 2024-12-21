@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "niche": "pets",
+    "title": "Safe-Touch Pet Nail Sharpener",
+    "descriptionHtml": "<h2 class=\"page\" title=\"Page 4\" style=\"text-align: center;\">TOMA RESPONSABILIDAD</h2> <div class=\"layoutArea\"> <div class=\"column\" style=\"text-align: center;\"> <span>Si eres un </span><span>dueño responsable</span><span>, sabes lo importante que es cortar las uñas de tu perro o gato, pero </span><span>¿tu mascota se aterroriza </span><span>cada vez que sacas los cortauñas?</span> </div> <div class=\"column\" style=\"text-align: center;\"></div> <div class=\"column\" style=\"text-align: center;\"></div> <div class=\"column\" style=\"text-align: center;\"></div> <div class=\"column\" style=\"text-align: center;\"> <h2>LA REALIDAD ES:</h2> <span>El 90% de los </span><span>dueños de mascotas lastiman a sus </span><span>mascotas al intentar usar cortauñas </span><span>porque no se quedan quietas. </span><span>Nuestro (nombre de la marca) Cortador de Uñas</span><span> ofrece una forma suave, segura y sin dolor de recortar y cortar las uñas de tu perro rápida y fácilmente, reduciendo el riesgo de cortar en exceso.</span> </div> </div> <div class=\"column\"><span><br></span></div> <h2 style=\"text-align: center;\">Beneficios:</h2> <div style=\"text-align: center;\"> <ul> <li><strong>GENERAR CONFIANZA CON TU PERRO:</strong><span> Hay una razón por la que tu perro no te deja tocar sus </span><span>uñas: </span><span>¡están nerviosos y les duele!</span><span> Una vez que les demuestres que cortar las uñas ya no es doloroso, </span><span>¡les encantará </span><span>que les cortes las uñas.</span></li> <li><strong>AHORRA MUCHO TIEMPO:</strong> <span>No tendrás que luchar para cortar las uñas de tu mascota o llevarlas al veterinario. Ahora puedes recortar sus uñas rápida y cómodamente en casa y </span><span>¡ahorrar todo ese tiempo perdido!</span></li> <li><span>Baja vibración y ruido</span></li> </ul> </div> <p> </p> <p> </p> <p> </p>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/Electric-Dog-Nail-Clippers-for-Dog-Nail-Grinders-Rechargeable-USB-Charging-Pet-Quiet-Cat-Paws-Nail.jpg_640x640-1.webp",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/Electric-Dog-Nail-Clippers-for-Dog-Nail-Grinders-Rechargeable-USB-Charging-Pet-Quiet-Cat-Paws-Nail.jpg_640x640_3b79a62d-71f2-441e-86b7-43ab81f62e73.webp"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "safe-touch-pet-nail-grinder",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "niche": "pets",
+    "title": "Dog Bottle",
+    "descriptionHtml": "<div style=\"text-align: center;\"> Nuestra <strong>[Nombre de la Marca]™ Botella Multiusos</strong> está diseñada específicamente para ayudarte a mantener todas las cosas importantes lo más simple posible. </div> <div style=\"text-align: center;\"> <strong>¿Por qué elegirnos?</strong> Nuestras <strong>Botellas para Perros</strong> están diseñadas con la intención de ser fáciles de llevar y usar, ¡ya no necesitarás llevar esas bolsas contigo! </div> <div style=\"text-align: center;\"> <strong>Nuestras botellas</strong> también vienen con <strong>palanquetas</strong> para que ya no tengas que preocuparte por ese mal olor. </div> <div style=\"text-align: center;\"> <img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/gif_480x480.gif?v=1675971307\"> </div> <div style=\"text-align: center;\"> <strong>[Nombre de la Marca]™</strong> <strong>Características de la Botella para Perros:</strong> </div> <div style=\"text-align: center;\"> <strong>- Larga Duración:</strong> Material duradero de alta calidad y a prueba de fugas. </div> <div style=\"text-align: center;\"> <strong>- Fácil de Transportar:</strong> Nuestro diseño te permite colgar fácilmente la botella de tu bolso o mano. </div> <div style=\"text-align: center;\"> <img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/BonzaiPets_7192768441407802625_480x480.gif?v=1675971316\"> </div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/61n2LLL2HWL._AC_SL1000.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/61ox3gTtZRL._AC_SX679.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/61ZCu41ZxKL._AC_SL1000.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/61kLLAAmvBL._AC_SL1000.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/61vtrEh_gcL._AC_SL1000.jpg"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "dog-bottle",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 12.99,
+        "compareAtPrice": 14.99
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "niche": "pets",
+    "title": "Pet Hair Remover",
+    "descriptionHtml": "<div style=\"text-align: center;\" data-mce-fragment=\"1\"> ¿Estás cansado de estar <strong data-mce-fragment=\"1\">cubierto</strong> de <strong data-mce-fragment=\"1\">pelusa de mascotas?</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> Nuestro <strong data-mce-fragment=\"1\">[Nombre de la Marca]™ Eliminador de Pelusa</strong> te ayudará a mantener toda tu ropa <strong data-mce-fragment=\"1\">libre de pelo</strong>! </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> ¡Aprovecha nuestra <strong data-mce-fragment=\"1\">Función Fácil de Usar!</strong> Simplemente raspa el eliminador de pelusa sobre la prenda que deseas limpiar y <strong data-mce-fragment=\"1\">mira cómo ocurre la magia</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/gif_bde48971-12b4-4ab7-914c-59dc95430ec9_480x480.gif?v=1675971418\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/gif_bde48971-12b4-4ab7-914c-59dc95430ec9_480x480.gif?v=1675971418\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">Características Clave:</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Fácil de Transportar:</strong> No solo son <strong data-mce-fragment=\"1\">pequeños</strong> sino también <strong data-mce-fragment=\"1\">ligeros</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Fácil de Usar: ¡No se necesitan baterías!</strong> Simplemente úsalo en cualquier momento o lugar sin complicaciones </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Mejor Calidad:</strong> El mango ergonómico de madera y las cuchillas de cobre puro aseguran la durabilidad y <strong data-mce-fragment=\"1\">una larga vida útil</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\"> <img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/ROSE_7171051856754511110_480x480.gif?v=1675971427\"> </div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/1634289189ce7001097cb61938b85999ebcd0a58f0.webp",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/1634289191a07b0e1ec6ee903413264703f771fce2_thumbnail_600x_55cc8c6b-29ff-4f9f-9138-ce6f90eb5d05.webp",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/16342891952e3432edf4623ac6098322e1b826f5fc_thumbnail_600x_4793cf37-16e0-467c-88b6-8a5dfc2c77f7.webp",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/1634289197d47fd10ac635ec6c3b0841055646dff2_thumbnail_600x_ea51c142-dce2-4333-9bcd-78f764b553ed.webp",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/1634289206592242b6211fb391c1e5595424b2ef49_thumbnail_600x_0878e05f-8e28-4432-a81a-75053cc52bce.webp"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "pet-hair-remover",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 19.99,
+        "compareAtPrice": 24.99
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "niche": "pets",
+    "title": "Cat Litter Scoop",
+    "descriptionHtml": "<div style=\"text-align: center;\" data-mce-fragment=\"1\"> ¿Aún estás cansado de <strong data-mce-fragment=\"1\">limpiar la arena de tu gato?</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> Nuestro <strong data-mce-fragment=\"1\">[Nombre de la Marca]™ Recolector de Arena</strong> te ayuda a hacer tu vida mucho más fácil y limpia </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> Nuestros recogedores están diseñados específicamente para limpiar cualquier <strong data-mce-fragment=\"1\">‘desorden’</strong> y dejar la caja limpia abajo. ¡Evita que te <strong data-mce-fragment=\"1\">ensucies</strong>! </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/AyristheTabby_7160428744623082798copy_480x480.gif?v=1675971531\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/AyristheTabby_7160428744623082798copy_480x480.gif?v=1675971531\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">Características Clave de [Nombre de la Marca]™:</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Limpio e Higiénico:</strong> Solo agarra el mango y dirígete hacia el desorden. </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Hace la Limpieza Más Fácil:</strong> No necesitas más equipo, simplemente usa el recogedor. </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Ahorra Dinero:</strong> Con nuestro recogedor, <strong data-mce-fragment=\"1\">ya no necesitarás</strong> comprar más guantes. </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\"> <img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0607/3725/7627/files/AyristheTabby_7160428744623082798_480x480.gif?v=1675971541\"> </div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/S34b366f4c7d0484e9d7675a1e0a515e5O.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/S0c2b5d525408478fb28c6fe82eabbf48j.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/Sa9bf4500874f4afb8bdf69394a406c59p.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/S193ebae6398d4eb787874d06aa17f2bdd.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/S3f2360d617e14d49b133265fa3b3a4d4o.jpg"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "cat-litter-box-scoop",
+    "productOptions": [
+      {
+        "name": "Orange",
+        "values": [
+          {
+            "name": "Orange"
+          }
+        ],
+        "price": 27.99,
+        "compareAtPrice": 31.99
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "niche": "pets",
+    "title": "Dog Bed",
+    "descriptionHtml": "<div style=\"text-align: center;\" data-mce-fragment=\"1\"> ¡El lugar donde duerme tu perro es tan <strong data-mce-fragment=\"1\">importante como el tuyo!</strong> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> Nuestra <strong data-mce-fragment=\"1\">Cama Portátil para Perros</strong> ayudará a mantener a tu perro <strong data-mce-fragment=\"1\">cómodo y cálido</strong> durante toda la noche (¡y el día!) </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> Nuestro colchón grande proporciona <strong data-mce-fragment=\"1\">un soporte óptimo</strong> tanto para tu perro como para su cabeza. </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">Características Clave de [Nombre de la Marca]™:</strong><br> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Listo para Usar:</strong> Simplemente desempaqueta tu cama y colócala <strong data-mce-fragment=\"1\">en cualquier lugar</strong> que desees. </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Buen Material:</strong> Nuestra cama para perros de tela <strong data-mce-fragment=\"1\">mejora la resistencia a los arañazos</strong>. </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Aestéticamente Agradable:</strong> Sabemos lo importante que es mantener tu casa limpia, ¡y esta cama no es una excepción! </div> <div style=\"text-align: center;\" data-mce-fragment=\"1\"> </div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/57236306523.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/434559367106.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/14785046168293.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/465403085598.png",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/products/3109930515625.png"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "dog-bed",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 29.99,
+        "compareAtPrice": 34.99
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "niche": "pets",
+    "title": "Pet Treat Thrower",
+    "descriptionHtml": "<div style=\"text-align: center;\"><meta charset=\"utf-8\"></div> <h3 style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\">¿Tu perro <strong>siempre quiere golosinas?</strong><br></h3> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> ¡Sabemos que el nuestro sí! Nuestro <strong>[Nombre de la Marca]™ Lanzador de Golosinas para Mascotas</strong> está diseñado para mantener a tu perro felizmente alimentado mientras se divierte.</div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> Simplemente carga las golosinas y <strong>lánzalas.</strong></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/FetchTreat__7204742356401196293-no-watermark_1_480x480.gif?v=1694350274\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/FetchTreat__7204742356401196293-no-watermark_1_480x480.gif?v=1694350274\" data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Características de [Nombre de la Marca]™:</strong></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Fácil de Usar:</strong> Solo presiona el botón de lanzamiento y mira cómo <strong>¡vuela la golosina!</strong> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Ahorra Energía:</strong> Ya no tienes que <strong>desperdiciar energía</strong> tratando de dar golosinas a tu perro; <strong>¡este dispositivo lo hace divertido y fácil!</strong> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Buen Comportamiento:</strong> Nuestro dispositivo <strong>enseña a tu perro a comportarse</strong> y asocia esto con <strong>golosinas.</strong> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/FetchTreat__7204742356401196293-no-watermark_2_480x480.gif?v=1694350282\" alt=\"\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/FetchTreat__7204742356401196293-no-watermark_2_480x480.gif?v=1694350282\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/7e10c16fd4041c2f82b8e40d8bad35c5fef24644_original.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/9c03179217f1a2dc3506bf485445b38636cad6ff_original.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/31bd6a28ace8fe0cdcb73c79e403a8585d34e459_original.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/f06f0c1d53a2bccfe8f16cb9ceb89964bc070331_original.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/1f13299d446105dc67e0b63d1b0cb360d230fe8c_200_200.jpg"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "pet-treat-launcher",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 19.99,
+        "compareAtPrice": 24.99
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "niche": "pets",
+    "title": "Dog Frisbee",
+    "descriptionHtml": "<div style=\"text-align: center;\"><meta charset=\"utf-8\"></div> <h3 style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><strong>¿Cansado de jugar con tu perro las 24 horas del día?</strong></h3> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> ¡Sabemos que nosotros lo estamos! <strong>Creamos nuestro [Nombre de la Marca]™ Frisbee para Perros</strong> para que podamos mantener a nuestros <strong>perros felices sin importar qué</strong>.</div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">¡Nuestro Frisbee</strong> <span data-mce-fragment=\"1\">actúa como <strong>ambos</strong>, una pelota y un frisbee! Dando a tu cachorro diversión infinita.</span></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/PetTrove_7228245078156823834-no-watermark_1_480x480.gif?v=1694352546\" alt=\"\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/PetTrove_7228245078156823834-no-watermark_1_480x480.gif?v=1694352546\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Características del Frisbee para Perros [Nombre de la Marca]™:</strong></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">- Duradero:</strong> Material de alta calidad significa que tu perro <strong>¡no puede morderlo!</strong></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">- Fácil de Transportar:</strong> Nuestro diseño te permite <strong>llevar fácilmente el frisbee</strong> al comprimirlo</div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><meta charset=\"utf-8\"><strong data-mce-fragment=\"1\">- Sin Baterías:</strong> Nuestro frisbee no requiere <strong>absolutamente 0 baterías, simplemente comprímelo y lánzalo!</strong></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/ezgif.com-crop_1_480x480_1_480x480.gif?v=1694352550\" alt=\"\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/ezgif.com-crop_1_480x480_1_480x480.gif?v=1694352550\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/622825e53d070_1080x_a0a13196-de5a-4255-9d64-ee336be600d0.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/DOGFRISBEE_1080x_d2547d65-3ee5-40d6-8839-064aca75310f.png",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/62282603978d3_1080x_f1a9efd8-61b8-4b4e-87a2-b22465178b9e.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/PREMIUMMATERIAL_1080x_50a6772c-42ad-4a0d-a6b8-1c3a4a3571ac.png",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/622826e7ebced_1080x_3380296f-e8de-4306-a46f-08be7b970513.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/622826c606c00_1080x_dd1e7f09-2a36-4d45-829e-5c3e5c162d42.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/61dKLcWukcL._AC_UF894_1000_QL80_1200x1200_2aafb8b7-f8a4-4faa-8f62-8a271f13f699.jpg"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "dog-frisbee",
+    "productOptions": [
+      {
+        "name": "Red",
+        "values": [
+          {
+            "name": "Red"
+          }
+        ],
+        "price": 19.99,
+        "compareAtPrice": 24.99
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "niche": "pets",
+    "title": "Ball Tosser",
+    "descriptionHtml": "<meta charset=\"utf-8\"> <h3 style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\">¿Estás cansado de lanzar la pelota de tu perro constantemente?</h3> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong> ¡Nosotros también lo estamos!</strong> Nuestro <strong data-mce-fragment=\"1\">[Nombre de la Marca]™ Lanzador de Pelotas</strong> está diseñado para mantener a tu perro <strong>feliz y entretenido mientras se divierte</strong>.</div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"> </strong></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\">Simplemente carga la pelota y <strong data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">déjala lanzar.</span></strong></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <img src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Olivebeautifuldog_7133340474277940523-no-watermark_1_480x480.gif?v=1694353529\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/Olivebeautifuldog_7133340474277940523-no-watermark_1_480x480.gif?v=1694353529\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Características Clave del [Nombre de la Marca]™ Lanzador de Pelotas:</strong></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Fácil de Usar:</strong> Simplemente presiona el botón de lanzamiento y observa cómo <span data-mce-fragment=\"1\">la pelota</span><strong data-mce-fragment=\"1\"> vuela!</strong></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Ahorra Energía:</strong> Ya no tendrás que <span data-mce-fragment=\"1\"></span>desperdiciar energía <span data-mce-fragment=\"1\">intentando</span> lanzar la pelota de tu perro, <strong data-mce-fragment=\"1\">¡este dispositivo lo hace divertido y fácil!</strong></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> </div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">- Buen Comportamiento:</strong> Nuestro dispositivo <strong>enseña a tu perro a comportarse</strong> y <strong>a cargar la máquina por sí mismo!</strong></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></div> <div style=\"text-align: center;\" data-mce-style=\"text-align: center;\" data-mce-fragment=\"1\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0690/8398/8265/files/ThePixelPups_7196087411472993582-no-watermark_1_480x480.gif?v=1694353521\"></div>",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/1342282380935.png",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/1426795457690.jpg",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/1186770611998.png",
+      "https://cdn.shopify.com/s/files/1/0690/8398/8265/files/8623949983046.jpg"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "ball-launcher",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 159.99,
+        "compareAtPrice": 229
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "niche": "pets",
+    "title": "Electric Pet Massager",
+    "descriptionHtml": "\n                        <div>\n                        <p>Transform your pet's relaxation time with the Electric Pet Massager. Designed with comfort and safety in mind, this innovative device delivers a soothing massage that pets love, easing tension and promoting overall well-being.</p>\n              \r\n          <br>\n                        <h2>Massage Like a Human Touch</h2>\n                        <p>Equipped with four silicone massage heads and 96 gentle kneading nodes, the Electric Pet Massager mimics the feel of human fingers to provide an unforgettable massage. This soothing device effectively reduces stiffness and discomfort in joints, especially catering to arthritis relief in hip areas. Also perfect as a back scratcher, it alleviates stress and anxiety, ensuring your pet feels relaxed and happy.</p>\n                        <br>\n                        <h2>Ease and Bonding for You and Your Pet</h2>\n                        <p>Create a serene experience for both your furry friend and you. Using the massager as a pampering tool helps in relieving everyday anxiety and strengthening the bond between you and your pet. Watch as your beloved pet enjoys the gentle caresses, each session fostering a deeper connection and understanding.</p>\n                        <br>\n                        <h2>Custom Speed for Every Pet</h2>\n                        <p>Tailor the massage experience with low, high, and alternative speed modes, providing a stimulating 3D kneading massage therapy. Carefully calibrated for both large and small pets, it ensures personalized comfort and soothing relief. For safe, stress-free relaxation, the massager conveniently shuts down after 20 minutes of use.</p>\n                        <br>\n                        <p>Enhance the quality of life for your furry companions with the Electric Pet Massager, encouraging healthier movement, reduced stress, and a stronger bond. Enjoy peace of mind knowing your pet's happiness is just a massage away.</p>\n<p></p>\n                        <br>\n                      </div>\n                      ",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/electric_pet_massager_main.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/electric_pet_massager_1.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/electric_pet_massager_2.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/electric_pet_massager_3.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/electric_pet_massager_4.jpg"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "electric-pet-massager",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 0,
+        "compareAtPrice": "deny"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "niche": "pets",
+    "title": "Hair Removal Brush for Pets",
+    "descriptionHtml": "\n                        <div>\n                        <p>Introducing the ultimate grooming tool for your furry friend, the Hair Removal Brush for Pets. Designed to make grooming an enjoyable experience, this brush seamlessly combines convenience and comfort. Say goodbye to pesky pet hair and hello to a clean, happy home.</p>\n                        <br>\n                        <h2>Innovative Water Tank Design</h2>\n                        <p>This pet hair removal comb features a unique water tank design, allowing for continuous water discharge that keeps hair from flying around. It tackles hair removal, cleaning, and even massages your pet, all with one tool. The handy hair removal comb on the back efficiently cleans pet hair from sofas and clothes. Simplify your grooming routine with this multifunctional marvel that’s as easy to use as it is effective.</p>\n                        <br>\n                        <h2>Gentle Silicone Massage Layer</h2>\n                        <p>The comb is equipped with a silicone massage layer that’s gentle on your pet's skin and ensures a pain-free grooming experience. Perfect for all pets, it provides a soothing massage, turning hair removal into a pleasure rather than a chore. Your pet will love the pampering care, leaving them relaxed and their skin well-protected. Let grooming become a bonding moment with your pet enjoying every stroke.</p>\n                        <br>\n                       \r\n <h2>Durable and Safe Materials</h2>\n                        <p>Crafted from high-quality ABS and silicone materials, this comb is safe, non-toxic, and built to last. It’s designed not to age, break, or fade, ensuring consistent performance with every use. The smooth surface and comfortable grip make it easy to handle, while its washable and reusable nature means it’s always ready for the next grooming session. Trust in a product that’s as safe and practical as it is durable.</p>\n                        <br>\n                        <p>Transform your pet grooming experience with the Hair Removal Brush for Pets. Discover ease, effectiveness, and enjoyment in every grooming session. Keep your pet and home looking their best with the unmatched convenience of this all-in-one grooming tool.</p>\n<p></p>\n            \r\n            <br>\n                      </div>\n                      ",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/hair_removal_brush_for_pets_main.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/hair_removal_brush_for_pets_1.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/hair_removal_brush_for_pets_2.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/hair_removal_brush_for_pets_3.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/hair_removal_brush_for_pets_4.jpg"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "hair-removal-brush-for-pets",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 0,
+        "compareAtPrice": "deny"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "niche": "pets",
+    "title": "Pets Magic UFO Ball",
+    "descriptionHtml": "\n                        <div>\n                        <p>Introducing the Pets Magic UFO Ball, the ultimate interactive toy for small to medium-sized dogs and children. Crafted to entertain and engage, this innovative ball offers hours of fun while promoting healthy play and physical activity.</p>\n                        <br>\n                        <h2>Durable Construction for Lasting Fun</h2>\n                        <p>The Pets Magic UFO Ball is crafted from high-quality plastics, ensuring a comfortable grip and durability in play. Lightweight and easy to handle, it's designed for extended use. However, it is best suited for smaller pets, as it may not withstand the strong pull of larger dogs.</p>\n                        <br>\n                        <h2>Perfect for Outdoor Adventures</h2>\n                        <p>Ideal for outdoor engagement, this magic flying ball is a versatile companion for dogs and children. Enjoy playful sessions in gardens, parks, or lawns that encourage physical activity. It's a perfect tool to enhance your dog's reflexes, support bone development, and promote a healthy, active lifestyle.</p>\n                        <br>\n                        <h2>Innovative Transformative Design</h2>\n                        <p>This fascinating toy features dual functionality, easily switching between a ball and a flying saucer with a simple press on the yellow circle. The innovative suction mechanism allows for seamless transformation, offering strong maneuvering capabilities for dynamic and varied play.</p>\n                        <br>\n                        <p>Experience the joy and innovation of the Pets Magic UFO Ball, and watch as it becomes a beloved staple in your pet's playtime routine. Engage, entertain, and enjoy quality moments with your furry friend today!</p>\n<p></p>\n                        <br>\n                      </div>\n                      ",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/pets_magic_UFO_ball_main.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/pets_magic_UFO_ball_1.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/pets_magic_UFO_ball_2.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/pets_magic_UFO_ball_3.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/pets_magic_UFO_ball_4.jpg"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "pets-magic-ufo-ball",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 0,
+        "compareAtPrice": "deny"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "niche": "pets",
+    "title": "Remote Controlled Smart Cat Toy",
+    "descriptionHtml": "\n                        <div>\n                        <p>Introducing the Remote Controlled Smart Cat Toy, designed to provide endless entertainment, mental stimulation, and exercise for your feline companions. This innovative toy ensures that cats of all ages and sizes stay active and engaged, making it a perfect gift for cat lovers.</p>\n                        <br>\n                        <h2>Entertainment and Exercise for Cats</h2>\n                        <p>Suitable for cats of all ages and sizes, this toy keeps them entertained while promoting exercise. By encouraging physical activity, it helps prevent obesity and reduces boredom-related behaviors. Cat lovers will appreciate this toy's ability to generate hours of joy and fun for their furry friends.</p>\n                        \r\n<br>\n                        <h2>Adjustable Speed and Interactive Modes</h2>\n                        <p>Control the toy's speed with ease using the remote, offering fast and slow settings to match your cat's mood. Choose between smart interactive mode for automatic movement or remote control mode to engage directly with your cat. These two modes ensure tailored fun and interaction for any activity level.</p>\n                        <br>\n                        <h2>Smart Navigation for Safe Play</h2>\n                        <p>Featuring built-in motion sensors and an obstacle avoidance system, the toy excels at navigating your home. It skillfully avoids obstacles and narrow spaces, reversing direction when needed to prevent getting stuck. Cats can safely enjoy this innovative toy without interruptions or hazards.</p>\n                        <br>\n                        <p>Elevate your cat's playtime with the Remote Controlled Smart Cat Toy, combining safety, fun, and adaptability for countless hours of feline entertainment.</p>\n<p></p>\n                        <br>\n                      </div>\n                      ",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/remote_controlled_smart_cat_toy_main.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/remote_controlled_smart_cat_toy_1.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/remote_controlled_smart_cat_toy_2.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/remote_controlled_smart_cat_toy_3.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/remote_controlled_smart_cat_toy_4.jpg"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "remote-controlled-smart-cat-toy",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 0,
+        "compareAtPrice": "deny"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "niche": "pets",
+    "title": "Soft Plush Pet Bed",
+    "descriptionHtml": "\n                        <div>\n                        <p>Pamper your furry friend with the ultimate relaxation experience provided by our Soft Plush Pet Bed. This calming sanctuary is thoughtfully crafted to provide comfort, warmth, and security. Give your pet the gift of peaceful sleep and enhanced well-being.  </p>\n                        <br>\n                        <h2>Superior Comfort with Premium Filling  </h2>\n                        <p>Our Calming Dog Bed is filled with high-quality PP cotton, known for its remarkable elasticity and shape retention. Tailored to withstand the playful antics of your pets, this material ensures lasting durability and comfort. The plush filling molds to your pet’s body, creating a soothing, snug haven. It not only supports restful sleep but also provides joint and muscle pain relief. Let your pet experience the bliss of a perfectly comfortable resting space.  </p>\n                        <br>\n              \r\n          <h2>Enhanced Security with Plush Ceiling  </h2>\n                        <p>Designed for pets that love to snuggle in cozy corners, our pet bed includes a thoughtfully added plush ceiling. Its unique shape mimics the protective feeling of being nestled in a corner, offering a heightened sense of security. This design is ideal for pets seeking refuge and relaxation. The soft, luxurious material surrounding your pet enhances their sense of safety and contentment. The plush ceiling gives your pet their own private, peaceful hideaway.  </p>\n                        <br>\n                        <h2>Adorable Donut-Shaped Design  </h2>\n           \r\n             <p>The charming donut-inspired design of our Plush Donut Dog Bed not only adds a delightful aesthetic but also provides a warm, inviting space for your pet. Its round shape offers a cuddly environment that feels both cozy and secure. The soft, fluffy exterior mimics the comforting hug of a donut, wrapping your pet in warmth. It's a stylish addition to any room without compromising on comfort. This unique design offers incredible value for money, blending style with functionality.  </p>\n                        <br>\n                        <p>Invest in your pet's happiness and well-being with our Soft Plush Pet Bed. Experience the unparalleled combination of comfort, security, and charm. Let your pet enjoy peaceful and restful moments, surrounded by softness and love.</p>\n<p></p>\n                   \r\n     <br>\n                      </div>\n                      ",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/soft_plush_pet_bed_main.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/soft_plush_pet_bed_1.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/soft_plush_pet_bed_2.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/soft_plush_pet_bed_3.jpg",
+      "https://cdn.shopify.com/s/files/1/0896/4302/4719/files/soft_plush_pet_bed_4.jpg"
+    ],
+    "vendor": "http://makeprofit.ai",
+    "handle": "soft-plush-pet-bed",
+    "productOptions": [
+      {
+        "name": "Title",
+        "values": ["Default Title"],
+        "price": 0,
+        "compareAtPrice": "deny"
+      }
+    ]
+  }
+]

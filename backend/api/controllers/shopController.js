@@ -49,7 +49,19 @@ const getShopInfo = async (req, res) => {
 
     if (!data) {
       return res.status(500).json({
-        error: "Missing shop data in the API response.",
+        error: "Could not found your store!",
+      });
+    }
+
+    // Check if the store is too ancient
+    const createdAt = new Date(data.createdAt);
+    const now = new Date();
+    const diffInHours = (now - createdAt) / (1000 * 60 * 60);
+
+    if (diffInHours > 1) {
+      return res.status(400).json({
+        error:
+          "Your store is too ancient, Please create the store from the affiliated link.",
       });
     }
 
@@ -251,6 +263,7 @@ const createProduct = async (req, res) => {
 
     const niches = await readJsonFile(filePath);
     const selectedNicheData = niches?.filter((item) => item?.niche === niche);
+    console.log(selectedNicheData, "selectedNicheData");
     let promises = [];
 
     // Create promises for all items in selectedNicheData
@@ -261,7 +274,7 @@ const createProduct = async (req, res) => {
             title: item?.title,
             descriptionHtml: item?.descriptionHtml,
             collectionsToJoin: [collectionId],
-            handle: `${item?.handle}-${item?.id}`,
+            handle: item?.handle,
           },
           media: item?.images?.map((image) => ({
             originalSource: image,
@@ -269,6 +282,20 @@ const createProduct = async (req, res) => {
             mediaContentType: "IMAGE",
           })),
         };
+
+        if (
+          item?.productOptions?.length > 0 &&
+          item?.productOptions[0]?.name !== "Title"
+        ) {
+          variables.input.productOptions = item?.productOptions?.map(
+            (option) => {
+              return {
+                name: option?.name,
+                values: option?.values,
+              };
+            }
+          );
+        }
 
         // Return the promise for shopifyGraphQLRequest
         return shopifyGraphQLRequest(storeUrl, accessToken, query, variables);
